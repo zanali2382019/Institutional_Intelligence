@@ -16,3 +16,4 @@ $RECYCLE.BIN/
 # Video & Raw Render Large Files (keep mp3 scripts/assets, ignore raw temp mp4 if huge)
 *.tmp
 *.log
+
