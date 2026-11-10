@@ -159,3 +159,4 @@ graph TD
 ### 13. حالة المرحلة (Phase Status)
 * **الحالة:** `مكتملة للمراجعة والاعتماد (Completed for Sign-off)`
 * **المهام المتبقية بعد الاعتماد:** فتح ملف `NEXORA — PHASE 02 — STRATEGY, POSITIONING & BRAND IDENTITY` والبدء بصياغة التموضع الاستراتيجي، ونبرة الصوت (Tone of Voice)، وأعمدة المحتوى.
+
