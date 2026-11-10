@@ -1,68 +1,322 @@
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║        برومبتات الإنتاج السينمائي للحلقة الأولى — قناة NEXORA الذكاء المؤسسي      ║
-║        EPISODE 01: THE $12M CONCRETE DISASTER & THE ERPNEXT ANTIDOTE            ║
-║                  كارثة المستخلصات: كيف ابتلع بند خرسانة واحد 12 مليون دولار؟     ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                   برومبتات Google Flow (Veo) لتوليد مشاهد الحلقة الأولى كاملاً — نكسورا                  ║
+║                  GOOGLE FLOW CONTINUOUS 10-SECOND SHOT MASTER PROMPT SUITE                           ║
+║                EPISODE 01: THE $12M CONCRETE DISASTER & THE ERPNEXT ANTIDOTE                         ║
+║                       كارثة المستخلصات: كيف ابتلع بند خرسانة واحد 12 مليون دولار؟                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 
-📌 مواصفات الإنتاج السينمائي المعتمدة:
-- النسبة: Horizontal 16:9 (عريض بدقة 4K / 8K)
-- نمط الكاميرا: Anamorphic Cinema Lens, Octane Render, 24fps
-- الإضاءة والتلوين: Corporate Teal & Orange, Moody Volumetric Shadows, Realistic Forbes/Bloomberg Style
-- مسار الصوت المعتمد: voiceover_ep01_master.mp3 (المدة: 03:55 دقيقة)
+📌 الدستور الفني لـ Google Flow (Veo):
+- النسبة: Horizontal 16:9 (عريض للوثائقيات واليوتيوب)
+- مدة كل لقطة: 10 ثوانٍ متصلة بالضبط (Continuous 10s Sequence)
+- مسار الصوت المتطابق معه: voiceover_ep01_master.mp3 (المدة الإجمالية: 03:55 دقيقة = 24 لقطة)
+- تعليمات الاستمرارية البصرية (Visual Continuity): كل لقطة بعد الأولى تتضمن توجيهاً صريحاً للذكاء الاصطناعي بالاستمرار من آخر فريم للقطة السابقة للحفاظ على تطابق الإضاءة والأشخاص والبيئة بنسبة 100%.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎬 المشهد 01 (00:00 - 00:28): تجمّد الرافعة والصدمة المالية
-[التوقيت الصوتي]: من "في عام ألفين واثنين وعشرين..." إلى "...يحقق أرباحاً صافية بنسبة 15%"
-[البرومبت السينمائي - Midjourney v6 / Sora / Runway Gen-3]:
-Cinematic 8K, extreme dramatic drone shot of a massive modern skyscraper under construction at golden hour twilight, a towering industrial yellow crane suddenly freezes and halts in mid-air against dramatic stormy orange clouds, dust particles shimmering in volumetric light beams, photorealistic anamorphic lens, high contrast, documentary crisis atmosphere, 24fps.
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 01 (00:00 - 00:10) | المشهد 01: دوران الرافعة عند الغروب
+ [النص الصوتي المسموع]: "في عام ألفين واثنين وعشرين، توقفت أكبر رافعة برجية في أحد أضخم مشاريع الأبراج..."
+══════════════════════════════════════════════════════════════════════════════════════════
 
-───────────────────────────────────────────────────────────────────────────────
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Photorealistic cinematic 8K video, horizontal 16:9 aspect ratio, dramatic wide drone shot establishing a massive modern skyscraper under construction at golden hour sunset. A colossal industrial yellow tower crane rotates slowly across the frame, towering over concrete frameworks and intricate steel rebars. Warm sunset sunlight flares through dust particles in the air, creating intense atmospheric volumetric god-rays. Camera glides smoothly forward and slightly upward, capturing the sheer scale of the urban skyline in the background. Ultra-realistic textures, anamorphic cinema lens, shallow depth of field, 24fps, premium documentary cinematography.
 
-🎬 المشهد 02 (00:29 - 00:42): شعار NEXORA والافتتاحية الهندسية
-[التوقيت الصوتي]: "أهلاً بكم في نكسورا، الذكاء المؤسسي."
-[البرومبت السينمائي]:
-Sleek luxury corporate headquarters glass wall, elegant 3D metallic logo of NEXORA with subtle glowing architectural grid nodes, clean minimalist interior with warm ambient blue and gold reflections, cinematic slow tracking camera movement, ultra-clean 8K resolution, corporate elegance.
+[NEGATIVE PROMPT]
+cartoon, CGI, 3D render, low resolution, blurry, erratic motion, flickering, oversaturated.
 
-───────────────────────────────────────────────────────────────────────────────
 
-🎬 المشهد 03 (00:43 - 01:25): الصراع بين موقع العمل والإدارة المالية (Split World)
-[التوقيت الصوتي]: من "ما حدث لتلك الشركة ليس استثناءً..." إلى "...دفع ثمنها مرتين!"
-[البرومبت السينمائي]:
-Cinematic split composition: On the left, a tired civil site engineer in a dusty white hardhat frantically signing paper delivery receipts amidst heavy concrete mixer trucks and spinning construction machinery; on the right, an exhausted corporate accountant in a glass boardroom holding his head in distress over glowing red descending spreadsheets, extreme dramatic lighting contrast, safety orange vs midnight blue, 8K, photorealistic.
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 02 (00:10 - 00:20) | المشهد 02: تجمد الرافعة المفاجئ وارتداد الشيك
+ [النص الصوتي المسموع]: "...عن الدوران فجأة. لم يكن التوقف بسبب عطل ميكانيكي، ولا نقص أسمنت، بل لأن شيكاً بـ 12 مليون دولار ارتد دون رصيد!"
+══════════════════════════════════════════════════════════════════════════════════════════
 
-───────────────────────────────────────────────────────────────────────────────
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Seamlessly continue from the exact visual style, golden hour sunset lighting, and atmosphere of Shot 01].
+Tight tracking shot focusing on the industrial yellow tower crane cab against dramatic dusky orange clouds. At 0s, the crane's jib halts sharply in mid-motion with metallic tension. Camera tilts swiftly down along the steel lattice tower toward a sudden gust of wind scattering official financial paperwork and stamped construction receipts through the air in slow-motion. A bold holographic red financial minus number "-$12,000,000" subtly glitches into view in the air and vanishes. Dramatic cinema lighting, intense suspense, high contrast, 8K photorealistic, 24fps.
 
-🎬 المشهد 04 (01:26 - 01:45): جحيم الإكسل وتصدع السد المالي
-[التوقيت الصوتي]: من "أين كان النظام؟" إلى "...يلتهم 10 إلى 30% من الميزانية."
-[البرومبت السينمائي]:
-Extreme close-up macro shot of an executive laptop keyboard and monitor, an intricate Excel spreadsheet glitching with red formula errors and negative cash flow numbers, an architectural blueprint underneath getting slowly soaked in spilled black espresso, dramatic cinematic tension, shallow depth of field, 8K.
+[NEGATIVE PROMPT]
+cartoon, fast cut, distorted crane, blurry text, low quality, unnatural physics.
 
-───────────────────────────────────────────────────────────────────────────────
 
-🎬 المشهد 05 (01:46 - 02:40): ماستر كلاس ERPNext والدرع الحامي
-[التوقيت الصوتي]: من "دعونا نوقف هذا النزيف للأبد..." إلى "...رسالة حمراء صارمة: تجاوز غير قانوني!"
-[البرومبت السينمائي]:
-A sleek ultra-wide curved modern monitor displaying the clean high-tech interface of ERPNext: dynamic green data streams connecting a 3D isometric building model to an automated General Ledger, smooth automated workflows with glowing green checkmarks, professional enterprise software environment, cinematic lighting, photorealistic.
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 03 (00:20 - 00:30) | المشهد 03: صدمة المدير وتقرير الأرباح الكاذب
+ [النص الصوتي المسموع]: "والمفاجأة الصادمة؟ أن تقارير الأرباح في مطلع ذلك الشهر كانت تؤكد لمجلس الإدارة أن المشروع يحقق أرباحاً 15%!"
+══════════════════════════════════════════════════════════════════════════════════════════
 
-───────────────────────────────────────────────────────────────────────────────
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Photorealistic cinematic medium shot inside an ultra-luxury corner executive boardroom at twilight. A distinguished corporate CEO in a dark tailored navy suit stands motionless by the floor-to-ceiling glass window looking down in shock. On the mahogany conference table behind him, an open leather folder reveals financial summary charts glowing with deceitful green "+15% PROFIT" headlines. A slow push-in camera movement focuses on the CEO's tense face reflected in the dark glass window as city lights flicker on outside. Atmospheric blue hour lighting mixed with warm desk lamp glow, 8K resolution, 35mm lens, 24fps.
 
-🎬 المشهد 06 (02:41 - 03:20): إنقاذ الشركة وتحول الأرباح للنمو
-[التوقيت الصوتي]: من "هذا السطر البرمجي البسيط..." إلى "...وهي تظن أنها تربح."
-[البرومبت السينمائي]:
-Cinematic slow tracking shot inside a luxury high-rise boardroom overlooking a glittering futuristic skyline at night, confident executives and civil engineers shaking hands in agreement across a polished walnut table, glowing holographic charts in the background showing steady ascending profit graphs and healthy cash flow, photorealistic, 8K.
+[NEGATIVE PROMPT]
+amateur, smiling, cartoon, overexposed, grainy, flat lighting.
 
-───────────────────────────────────────────────────────────────────────────────
 
-🎬 المشهد 07 (03:21 - 03:55): الختام والدعوة للفعل والتحميل
-[التوقيت الصوتي]: من "رابط تحميل هذا الكود البرمجي..." إلى نهاية الحلقة.
-[البرومبت السينمائي]:
-Futuristic enterprise digital vault doorway opening smoothly, revealing glowing holographic icons of Frappe Python code scripts and Excel BOQ templates floating gracefully, soft cyber-cyan and gold volumetric light, ending with clean NEXORA branded subscription badge, 8K, cinematic commercial finish.
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 04 (00:30 - 00:40) | المشهد 04: شعار NEXORA والتحول الاستشاري
+ [النص الصوتي المسموع]: "أهلاً بكم في نكسورا، الذكاء المؤسسي. ما حدث لتلك الشركة ليس استثناءً..."
+══════════════════════════════════════════════════════════════════════════════════════════
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 خطوات الإنتاج النهائي للحلقة الأولى:
-1. ولّد المشاهد السبعة عبر Sora أو Runway أو Midjourney.
-2. احفظ المقاطع بأسماء: shot01.mp4 وحتى shot07.mp4 في هذا المجلد.
-3. ملف الصوت voiceover_ep01_master.mp3 جاهز ومطابق لهذه التوقيتات تماماً.
-4. استخدم ملف الدمج الآلي لإنتاج الحلقة الكاملة 4K بأعلى نقاء.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Transition smoothly from the executive aesthetic of Shot 03].
+Sleek cinematic camera movement gliding across a minimalist dark matte architectural concrete wall. In the center, a majestic 3D brushed-metal logo of "NEXORA" with the Arabic typography "الذكاء المؤسسي" subtly emerges with elegant cyber-cyan edge lighting and golden accents. Fine architectural grid lines and digital nodes project across the surface like blueprint laser scans. Camera glides steadily from right to left with smooth cinematic motion blur, conveying elite authority and strategic intelligence. 8K, photorealistic corporate broadcast quality.
+
+[NEGATIVE PROMPT]
+cheap graphics, 2D flat, neon party lights, messy typography, glitch, low resolution.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 05 (00:40 - 00:50) | المشهد 05: واقع الـ 8 من 10 شركات مقاولات
+ [النص الصوتي المسموع]: "...بل هو كابوس يومي يتكرر الآن في ثمان من كل عشر شركات مقاولات وتطوير عقاري حول العالم."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Wide cinematic aerial shot sweeping over an expansive multi-tower construction metropolis under overcast dramatic daylight. Multiple active concrete pumps, mixer trucks, and workers with white hardhats swarming across concrete decks. Overhead digital telemetry overlays and glowing red audit boundary lines hover subtly across the buildings, indicating widespread invisible financial bleed across 8 out of 10 sites. Steady smooth forward drone glide, ultra-high dynamic range, natural color grading, photorealistic 8K, 24fps.
+
+[NEGATIVE PROMPT]
+cartoon, video game graphics, toy cranes, blurry textures, oversaturated colors.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 06 (00:50 - 01:00) | المشهد 06: مهندس الموقع وتوقيع المستخلص على عجل
+ [النص الصوتي المسموع]: "في الموقع، مهندس التنفيذ يقف وسط الغبار وضجيج المعدات، ويوقع مستخلصاً لمقاول الباطن..."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Maintain the daytime dusty construction environment established in Shot 05].
+Medium tracking shot of a focused civil site engineer wearing a dusty white hardhat, safety goggles, and high-visibility orange reflective vest standing on an active construction deck. Huge concrete mixer trucks operate behind him with spinning drums. In his hands, he hastily reviews and signs a paper subcontractor claim form on a metal clipboard with a blue ink pen. Swirling concrete dust catches the harsh direct sunlight. Handheld cinematic camera feel with subtle natural sway, crisp 50mm lens focus, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+clean studio, model, cartoon, blurry pen, unnatural hands, deformed fingers.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 07 (01:00 - 01:10) | المشهد 07: صب الخرسانة الضخم (5000 متر مكعب)
+ [النص الصوتي المسموع]: "...لصب خمسة آلاف متر مكعب من الخرسانة، بناءً على إنجاز ظاهري ورغبة في تفادي توقف العمل."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Continue directly from the site setting of Shot 06].
+Dynamic low-angle action shot of a massive concrete boom pump pouring wet grey concrete into a dense matrix of rebar foundation slabs. Construction workers in rubber boots guide the heavy vibrating hose as wet concrete churns and levels out smoothly. Splashes of slurry and rising steam in the morning air. Camera pulls back smoothly while panning up to emphasize the immense volume of concrete being poured. High-speed cinematic shutter, tactile physical realism, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+slow motion water, liquid mud, CGI look, blurry rebar, artificial lighting.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 08 (01:10 - 01:20) | المشهد 08: المحاسب في الإدارة المالية وأمر الصرف
+ [النص الصوتي المسموع]: "وفي الإدارة المالية، يجلس المحاسب أمام شاشته، يراجع الفاتورة، ويسجل القيد، ثم يصدر أمر الصرف..."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Contrast shot: Cut to a quiet, modern corporate financial office with cool ambient blue glass reflections. Medium shot of a senior financial accountant sitting behind a dual-monitor workstation, comparing a stamped paper invoice against an open accounting software screen. He clicks his mouse and types on his mechanical keyboard to approve the payment voucher. Camera slowly circles behind his shoulder, revealing dense balance sheet lines on screen. Professional documentary lighting, shallow depth of field, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+cluttered amateur office, darkness, cartoon, funny face, distorted keyboard.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 09 (01:20 - 01:30) | المشهد 09: صدمة العقد: الـ BOQ محدد بـ 3500 متر فقط!
+ [النص الصوتي المسموع]: "...دونَ أن يدرك أن جدول الكميات المعتمد في العقد، حصر هذا البند بثلاثة آلاف وخمسمائة متر مكعب فقط!"
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Maintain the accounting office atmosphere and character of Shot 08].
+Extreme macro close-up of a printed Bill of Quantities (BOQ) contract document under an intense desk magnifying lamp. A yellow highlighter suddenly highlights line item: "Item 04.02: C40 Concrete - Allocated Qty: 3,500 m³". Overlaid in the air is a floating red discrepancy graphic showing the billed quantity "5,000 m³" clashing with the approved quantity. Camera racks focus sharply from the paper numbers to the accountant's eyes widening in realization of the breach. High-contrast cinematic tension, 8K photorealistic.
+
+[NEGATIVE PROMPT]
+blurry text, illegible handwriting, cartoon, flickering lighting.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 10 (01:30 - 01:40) | المشهد 10: فارق الـ 1500 متر المدفوع مرتين!
+ [النص الصوتي المسموع]: "الفارق؟ ألف وخمسمائة متر مكعب من الخرسانة دفعت الشركة ثمنها مرتين: للمورد ولمقاول الباطن!"
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Dramatic conceptual visual: Split-screen motion graphics composited inside a photorealistic concrete batching yard. On the left side, a convoy of ready-mix concrete trucks receives automatic cash payments disappearing into thin air; on the right side, subcontractor invoices pile up with identical dollar amounts draining simultaneously. A bold holographic warning graphic illustrates double cash outflow bleeding from a single bank account vault icon. Moody industrial twilight, cinematic anamorphic flare, 8K.
+
+[NEGATIVE PROMPT]
+cartoon coins, childish icons, low quality 3D, messy layout.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 11 (01:40 - 01:50) | المشهد 11: جحيم الإكسل المنعزل
+ [النص الصوتي المسموع]: "أين كان النظام؟ النظام كان عبارة عن ملف إكسل معزول، يملكه شخص واحد، ولا يراه أحد!"
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Macro cinematic tracking shot skimming across an old, dusty mechanical laptop in a dimly lit office cubicle. The screen displays an overly complicated Microsoft Excel spreadsheet with broken `#REF!` errors and mismatched colored columns. An unplugged Ethernet cable lies forgotten beside the laptop, symbolizing total offline isolation. Cold moody cyan lighting with high contrast shadows. Camera pans slowly off the screen to a locked drawer, emphasizing information hidden from the rest of the company. 8K, 35mm lens.
+
+[NEGATIVE PROMPT]
+clean modern room, happy lighting, cartoon, messy room.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 12 (01:50 - 02:00) | المشهد 12: إحصائية ماكنزي الصادمة (98% فشل وتأخير)
+ [النص الصوتي المسموع]: "أبحاث معهد ماكنزي العالمي تؤكد أن 98% من المشاريع الكبرى تواجه عجزاً مالياً وتأخيراً كارثياً..."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Sophisticated data visualization sequence inside a dark glass executive briefing room. The camera tracks smoothly across a monumental transparent glass display wall showing verified global enterprise analytics. Bold, crisp typography reveals: "98% OF MEGAPROJECTS EXCEED BUDGET OR DELAY" sourced with an elegant "McKinsey Global Institute" watermark. Red trendline charts plunge downward across global city maps. Clean, prestigious Bloomberg / Financial Times documentary aesthetic, photorealistic 8K, 24fps.
+
+[NEGATIVE PROMPT]
+cheap infographics, cartoon graphs, cluttered screen, blurry fonts.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 13 (02:00 - 02:10) | المشهد 13: نزيف الـ 10% إلى 30% في سلاسل الإمداد
+ [النص الصوتي المسموع]: "...وأن الهدر في سلاسل الإمداد وانفصال الموقع عن الإدارة يلتهم ما بين 10 إلى 30% من ميزانية الشركات."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Transition from the global data of Shot 12 to a tactile operational setting].
+Cinematic tracking shot along an immense industrial logistics warehouse and materials storage staging area for a mega-project. Hundreds of pallets of building supplies, uncoded steel coils, and weathering cement bags sit disorganized. Translucent red diagnostic HUD lines highlight unlogged inventory boxes with negative percentage icons: "-10% to -30% LEAKAGE". Camera moves rapidly forward through the central aisle with dynamic industrial lighting and realistic depth of field. 8K.
+
+[NEGATIVE PROMPT]
+empty warehouse, cartoon boxes, plastic toys, blurry textures.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 14 (02:10 - 02:20) | المشهد 14: التحول الحاسم: الموقع والمالية جسد واحد
+ [النص الصوتي المسموع]: "دعونا نوقف هذا النزيف للأبد. في عالم نكسورا، الموقع والمالية جسد واحد ينبض بلغة رقمية صارمة."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Powerful transformation shot: Visual metaphor showing an architectural 3D CAD wireframe model of a skyscraper seamlessly fusing with digital financial ledger streams. Glowing pulses of orange construction energy and deep navy financial data merge into a single harmonized network. The camera accelerates forward through the glowing cyber-architectural corridor, bursting into an ultra-clean corporate command interface. Epic cinematic scale, high-tech realism, crystal-clear optics, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+disjointed transition, cheap sci-fi, chaotic sparks, cartoon, blurry.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 15 (02:20 - 02:30) | المشهد 15: الدخول إلى واجهة ERPNext المتطورة
+ [النص الصوتي المسموع]: "لن نفتح ملفات إكسل، بل سنفتح الآن نظام إي آر بي نكست، لنرى كيف تحول خوارزمية بسيطة حصر الكميات إلى جدار ناري..."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Close-up dynamic camera pan gliding across a sleek ultra-thin metallic workstation monitor. The screen displays the modern, clean web interface of ERPNext: the Projects module dashboard with real-time budget utilization graphs, interactive Gantt timelines, and Cost Center breakdown panels. Crisp typography, smooth responsive UI animations with green status badges. Ambient luxury office lighting reflecting subtly on the monitor bezel. Photorealistic 8K, 24fps.
+
+[NEGATIVE PROMPT]
+Windows 95 look, messy browser tabs, cartoon UI, blurry text, glare.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 16 (02:30 - 02:40) | المشهد 16: ربط الـ BOQ بمراكز التكلفة رصيداً ملزماً
+ [النص الصوتي المسموع]: "عندما نربط جدول الكميات بمراكز التكلفة، يتحول كل متر خرساني إلى رصيد دفتري ملزم."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Focus closely on the ERPNext UI established in Shot 15].
+Macro screen recording visual: A user mouse cursor effortlessly drags a structural 3D BIM model element labeled "Foundation Pour Section B" and drops it into the ERPNext "Project BOQ Item" table. Instantly, an automatic accounting allocation row populates: "Allocated: 3,500 m³ | Cost Center: CC-TOWER-01 | Budget Limit Enforced". A glowing emerald green padlock icon clicks shut beside the quantity, symbolizing unbreakable financial lockdown. Crisp 8K, photorealistic UI capture.
+
+[NEGATIVE PROMPT]
+pixelated font, slow laggy mouse, amateur screencast, distorted UI.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 17 (02:40 - 02:50) | المشهد 17: محاولة تجاوز الكمية في الموقع
+ [النص الصوتي المسموع]: "وعندما يحاول مهندس الموقع أو مقاول الباطن رفع مستخلص يتجاوز السقف المعتمد بمتر واحد فقط..."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Over-the-shoulder medium shot of a site supervisor on the construction deck tapping on a ruggedized tablet running the ERPNext mobile web app. His gloved finger types in an inflated invoice quantity: "3,501 m³" and presses the blue "Submit Claim" button. The tablet screen glows sharply against the dusk sky. Camera quickly zooms in on the screen in anticipation of the system's reaction. Cinematic realism, authentic construction site background, 8K.
+
+[NEGATIVE PROMPT]
+broken tablet, dirty illegible screen, cartoon character, studio lighting.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 18 (02:50 - 03:00) | المشهد 18: انطلاق الرسالة الحمراء الصارمة وحظر الصرف
+ [النص الصوتي المسموع]: "...فإن النظام يتدخل برمجياً في أجزاء الثانية. رسالة حمراء صارمة: تجاوز غير قانوني لموازنة المشروع!"
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Close-up on the ERPNext screen from Shot 17].
+Extreme close-up of the ERPNext interface instantly freezing the transaction. An authoritative, sleek crimson alert modal pops up with a glowing red shield icon: "🚨 خطأ رقابي حاسم: تجاوزت كمية البند الحد المعتمد في الـ BOQ! لا يمكن الاعتماد أو الصرف دون أمر تغيير معتمد." The submit button locks down securely. Smooth UI micro-animations, intense dramatic focus, professional enterprise software design, 8K.
+
+[NEGATIVE PROMPT]
+cheap error popup, Windows error icon, comic font, blurry text.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 19 (03:00 - 03:10) | المشهد 19: مسار أمر التغيير وملحق العقد الإلزامي
+ [النص الصوتي المسموع]: "...إلا بعد إصدار أمر تغيير معتمد، وتوقيع ملحق العقد المالي من الإدارة التنفيذية."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Cinematic workflow animation transitioning into a modern glass boardroom. An automated digital Change Order document flows sequentially through three glowing approval tiers on a floating holographic dashboard: "Site Project Manager Verified" -> "CFO Budget Cleared" -> "CEO Digitally Signed". At each tier, a golden digital signature stamps onto the document with a satisfying tactile click. Polished executive aesthetics, corporate governance perfection, 8K photorealistic.
+
+[NEGATIVE PROMPT]
+chaotic flying papers, cartoon stamps, messy arrows, amateur motion graphics.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 20 (03:10 - 03:20) | المشهد 20: إنقاذ الـ 12 مليون دولار وحماية الشركة
+ [النص الصوتي المسموع]: "هذا السطر البرمجي البسيط كان كفيلاً بإنقاذ تلك الشركة من الإفلاس، وتوفير 12 مليون دولار وحماية مئات الوظائف."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Inspiring cinematic wide shot inside a sprawling bustling headquarters of an engineering conglomerate. Hundreds of engineers, architects, and financial analysts collaborate productively in a state-of-the-art open-plan architectural atrium filled with lush indoor greenery and daylight. On the central high-definition status board, financial safety metrics shine with a vibrant green: "$12,000,000 BUDGET PRESERVED | ZERO CASH DRIFT". Camera tracks smoothly on a dolly, conveying massive triumph, security, and stability. 8K.
+
+[NEGATIVE PROMPT]
+empty office, sad faces, dark lighting, messy desks, cartoon.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 21 (03:20 - 03:30) | المشهد 21: حكمة الذكاء المؤسسي والاستدامة
+ [النص الصوتي المسموع]: "الحوكمة والذكاء المؤسسي ليسا رفاهية تكنولوجية، بل هما الفارق الدقيق بين شركة تصنع مجداً وتوسعاً مستداماً..."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Magnificent cinematic architectural hero shot of a newly finished, gleaming ultra-modern glass skyscraper rising gracefully into a clear morning sky. High-speed elevators visible through exterior glass shafts. Camera ascends dramatically alongside the building's facade, reflecting sunlight and clouds, symbolizing monumental enterprise achievement, rock-solid foundations, and corporate permanence. Majestic 8K resolution, IMAX drone style, 24fps.
+
+[NEGATIVE PROMPT]
+broken building, storm, cartoon, shaky camera, low quality textures.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 22 (03:30 - 03:40) | المشهد 22: وداعاً للعمى المالي: فتح خزنة الأصول الرقمية
+ [النص الصوتي المسموع]: "...وشركة تتهاوى فجأة في صمت وهي تظن أنها تربح. رابط تحميل هذا الكود البرمجي وقالب الـ BOQ متاح الآن مجاناً في التلجرام..."
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Futuristic minimalist vault shot: A sleek obsidian vault portal slides open smoothly with a soft blue laser hiss, revealing a glowing holographic display of downloadable enterprise assets: a Python file labeled `boq_validation_script.py` and a glowing spreadsheet template labeled `master_boq_erpnext.csv`. Translucent arrows point smoothly downward toward a refined Telegram community badge. Ambient warm gold and cyber-cyan volumetric lighting, luxury tech aesthetic, 8K.
+
+[NEGATIVE PROMPT]
+cartoon chest, pirate gold, cluttered icons, cheap 3D, blurry text.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 23 (03:40 - 03:50) | المشهد 23: دعوة الاشتراك ومشاركة الإدارة التنفيذية
+ [النص الصوتي المسموع]: "اشترك في نكسورا، وشارك هذا الفيديو مع مديرك التنفيذي ومديرك المالي.. فربما تنقذ شركتك غداً!"
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Maintain the luxury branding aesthetic of Shot 22].
+Close-up dynamic composition: An executive hand holding a sleek bezel-less smartphone taps an elegant "Share to CEO & CFO" button. In the background, the prestigious 3D glowing insignia of NEXORA — الذكاء المؤسسي hovers with cinematic depth of field. A glowing, refined "Subscribe" pill badge with a golden notification bell activates smoothly. Warm golden rim lighting, 8K photorealistic, 24fps.
+
+[NEGATIVE PROMPT]
+annoying red arrows, loud flashing neon, cartoon thumbs up, cheap YouTube overlays.
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 24 (03:50 - 03:55) | المشهد 24: الكادر الختامي السيادي لنكسورا
+ [الصوت المسموع]: [موسيقى تصويرية وثائقية صاعدة تتلاشى مع شعار نكسورا النهائي]
+══════════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Final iconic resolution].
+The camera pulls back to a centered, majestic composition on a deep midnight-navy matte textured backdrop. The complete official brand signature appears with authoritative elegance:
+"NEXORA" in bold geometric capital letters, underlined by "الذكاء المؤسسي | ENTERPRISE INTELLIGENCE". A subtle golden horizon light line glides across the metallic typography from left to right before fading gracefully into darkness. Masterclass cinema quality, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+fast cuts, loud explosions, cartoon fonts, cheap animation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 خطوات التنفيذ الميداني الفوري في Google Flow:
+1. انسخ برومبت كل لقطة بالترتيب من [SHOT 01] إلى [SHOT 24].
+2. احفظ المقاطع المولدة في المجلد:
+   03_الفيديوهات_الطويلة_والشروحات\الإنتاج_والمقاطع\
+   بأسماء مرتبة: shot01.mp4 وحتى shot24.mp4 (كل مقطع 10 ثوانٍ بالضبط).
+3. ملف الصوت voiceover_ep01_master.mp3 جاهز ومطابق لهذه الثواني الـ 235 تماماً.
+4. سكربت بايثون المونتاجي سيدمج كافة المشاهد مع الصوت بدقة الميلي ثانية تلقائياً!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
