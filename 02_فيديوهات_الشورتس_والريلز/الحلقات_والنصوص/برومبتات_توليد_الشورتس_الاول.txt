@@ -1,0 +1,78 @@
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║         برومبتات Google Flow لتوليد مشاهد الشورتس 01 — قناة الذكاء المؤسسي      ║
+║        GOOGLE FLOW VEOMAX PROMPTS — ENTERPRISE SHORTS EPISODE 01               ║
+║    "A Multi-Million Dollar Company Run by 1 Person & 30 AI Agents!"            ║
+║                  شركة بملايين الدولارات.. بموظف واحد و30 وكيل ذكي!              ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+
+📌 معايير الإنتاج المؤسسي المعتمدة:
+- الأسلوب: Photorealistic Cinematic B-Roll (سينمائي واقعي فخم وعالي الدقة، وليس كرتون)
+- الأبعاد: Vertical 9:16 (مخصص للشورتس والريلز ولينكد إن)
+- الإضاءة: إضاءة مكتبية فاخرة (Warm Luxury Sunset + Cyber Cyan / Strategic Gold Data Glow)
+- المحرك: Google Flow (Veo) — مدة كل لقطة: 10 ثوانٍ
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+══════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 01 (00:00 - 00:10): THE ONE-PERSON EXECUTIVE POWERHOUSE
+ اللقطة الأولى (10 ثوانٍ): الرئيس التنفيذي في المكتب الزجاجي الفخم
+══════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — SHOT 01]
+──────────────────────────────
+
+Cinematic photorealistic 8K video, vertical 9:16 aspect ratio, luxurious executive corner office on the 80th floor of a glass skyscraper.
+
+Continuous 10-second sequence:
+Starts at 0s with a dynamic slow push-in shot of a confident, sharply dressed CEO in a tailored dark navy suit sitting at a minimalist solid walnut executive desk. Behind him is an expansive floor-to-ceiling glass window overlooking a breathtaking sprawling metropolis bathed in golden sunset and dusk twilight. On his ultra-thin bezel-less metallic laptop, a radiant stream of green profit graphs and real-time AI metrics glow smoothly. At 4s, the CEO sips an espresso, smiles calmly, and taps the screen. Transparent, elegant holographic charts subtly hover above the desk showing multi-million dollar revenue numbers updating in real-time. Cinematic 35mm lens, shallow depth of field, natural warm lighting mixed with soft cyber-cyan rim light, ultra-high dynamic range, professional Forbes / Bloomberg documentary cinematography.
+
+[NEGATIVE PROMPT / RESTRICTIONS]
+cartoon, 3d render, anime, blurry, low resolution, crowded office, noisy, flickering, cheap lighting.
+
+
+══════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 02 (00:10 - 00:20): THE HOLOGRAPHIC AI AGENT SWARM NETWORK
+ اللقطة الثانية (10 ثوانٍ): شبكة وكلاء الذكاء الاصطناعي الرقمية المترابطة
+══════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — SHOT 02]
+──────────────────────────────
+
+Cinematic photorealistic tech visual, vertical 9:16 aspect ratio, futuristic corporate boardroom with ambient dark midnight navy lighting.
+
+Continuous 10-second sequence:
+From 0s to 5s, dynamic camera descends gracefully toward a glowing obsidian circular conference table. In the center, a majestic 3D volumetric hologram erupts into a sophisticated network of connected nodes representing 30 autonomous enterprise AI agents: glowing interconnected modules with sleek minimalist icons for Financial Auditing, Automated Sales Pipeline, Real-Time Legal Contract Analysis, and Supply Chain Logistics. Shimmering pulses of gold and cyan light race between the nodes at light-speed. From 5s to 10s, the camera orbits smoothly around the hologram as translucent contract documents and analytical reports instantly verify themselves with glowing checkmarks in milliseconds, demonstrating flawless autonomous workflow automation. High-end sci-fi realism, cinematic motion blur, crystal-clear optics, luxury tech enterprise aesthetic.
+
+[NEGATIVE PROMPT / RESTRICTIONS]
+childish, 2D flat icons, pixelated, horror, glitchy text, overexposed, cartoonish, messy composition.
+
+
+══════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 03 (00:20 - 00:30): THE AUTOMATED WORKFLOW & EXPONENTIAL ROI
+ اللقطة الثالثة (10 ثوانٍ): التدفق المالي الذكي واللوحة التنفيذية المتصاعدة
+══════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — SHOT 03]
+──────────────────────────────
+
+Cinematic photorealistic documentary shot, vertical 9:16 aspect ratio, sleek high-tech corporate command center.
+
+Continuous 10-second sequence:
+From 0s to 4s, close-up tracking shot gliding across a giant curved micro-LED executive dashboard display. The screen reveals a clean, modern enterprise BI interface: automated workflows processing thousands of incoming customer inquiries per second with 99.8% customer satisfaction score, alongside glowing green financial ROI indicators rising sharply. From 5s to 10s, the camera pulls back smoothly to reveal modern glass partitions and glowing server racks with silent blue LED indicators in the background, symbolizing total organizational stability and automated peace of mind. Reflections of ambient golden light ripple across polished marble floors. Cinematic anamorphic lens flare, premium commercial grade color grading, commanding authority, high-end production quality.
+
+[NEGATIVE PROMPT / RESTRICTIONS]
+messy cables, panic, broken screens, cartoon, amateur video, dark muddy shadows, distortion.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 🚀 خطوات دمج ونشر الشورتس الأول:
+ 1. انسخ برومبت كل لقطة وولّدها في Google Flow (10 ثوانٍ لكل لقطة).
+ 2. احفظ المقاطع الثلاثة في المجلد:
+    02_فيديوهات_الشورتس_والريلز\الإنتاج_والمقاطع\
+    بأسماء: shot01.mp4 و shot02.mp4 و shot03.mp4
+ 3. (التعليق الصوتي الصوتي جاهز ومولد مسبقاً في نفس المجلد: voiceover_ep01.mp3)
+ 4. اضغط نقراً مزدوجاً على: دمج_الشورتس_الاول.bat
+    وسينتج فوراً الفيديو النهائي المكتمل والمدمج مع الصوت وشارة الاشتراك الذهبية الفاخرة!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
