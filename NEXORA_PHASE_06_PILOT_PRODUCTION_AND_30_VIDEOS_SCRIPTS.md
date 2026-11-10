@@ -177,3 +177,4 @@ def validate_subcontractor_claim(doc, method):
 * **الحالة:** `مكتملة للمراجعة والاعتماد (Completed for Sign-off)`
 * **المرحلة التالية فور الاعتماد:** الانتقال إلى المرحلة 07 وإعداد مستند:
   `NEXORA — PHASE 07 — FIRST 30 PLATFORM POSTS (LINKEDIN & B2B)`
+

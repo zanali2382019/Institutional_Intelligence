@@ -151,3 +151,4 @@ graph LR
 * **الحالة:** `مكتملة للمراجعة والاعتماد (Completed for Sign-off)`
 * **المرحلة التالية فور الاعتماد:** الانتقال إلى المرحلة 04 وإعداد مستند:
   `NEXORA — PHASE 04 — CONTENT STRATEGY & EDITORIAL PILLARS`
+

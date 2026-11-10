@@ -134,3 +134,4 @@ graph TD
 * **الحالة:** `مكتملة للمراجعة والاعتماد (Completed for Sign-off)`
 * **المرحلة التالية فور الاعتماد:** الانتقال إلى المرحلة 05 وإعداد مستند:
   `NEXORA — PHASE 05 — 90-DAY EDITORIAL CALENDAR`
+
