@@ -1,0 +1,68 @@
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║        برومبتات الإنتاج السينمائي للحلقة الأولى — قناة NEXORA الذكاء المؤسسي      ║
+║        EPISODE 01: THE $12M CONCRETE DISASTER & THE ERPNEXT ANTIDOTE            ║
+║                  كارثة المستخلصات: كيف ابتلع بند خرسانة واحد 12 مليون دولار؟     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+
+📌 مواصفات الإنتاج السينمائي المعتمدة:
+- النسبة: Horizontal 16:9 (عريض بدقة 4K / 8K)
+- نمط الكاميرا: Anamorphic Cinema Lens, Octane Render, 24fps
+- الإضاءة والتلوين: Corporate Teal & Orange, Moody Volumetric Shadows, Realistic Forbes/Bloomberg Style
+- مسار الصوت المعتمد: voiceover_ep01_master.mp3 (المدة: 03:55 دقيقة)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎬 المشهد 01 (00:00 - 00:28): تجمّد الرافعة والصدمة المالية
+[التوقيت الصوتي]: من "في عام ألفين واثنين وعشرين..." إلى "...يحقق أرباحاً صافية بنسبة 15%"
+[البرومبت السينمائي - Midjourney v6 / Sora / Runway Gen-3]:
+Cinematic 8K, extreme dramatic drone shot of a massive modern skyscraper under construction at golden hour twilight, a towering industrial yellow crane suddenly freezes and halts in mid-air against dramatic stormy orange clouds, dust particles shimmering in volumetric light beams, photorealistic anamorphic lens, high contrast, documentary crisis atmosphere, 24fps.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🎬 المشهد 02 (00:29 - 00:42): شعار NEXORA والافتتاحية الهندسية
+[التوقيت الصوتي]: "أهلاً بكم في نكسورا، الذكاء المؤسسي."
+[البرومبت السينمائي]:
+Sleek luxury corporate headquarters glass wall, elegant 3D metallic logo of NEXORA with subtle glowing architectural grid nodes, clean minimalist interior with warm ambient blue and gold reflections, cinematic slow tracking camera movement, ultra-clean 8K resolution, corporate elegance.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🎬 المشهد 03 (00:43 - 01:25): الصراع بين موقع العمل والإدارة المالية (Split World)
+[التوقيت الصوتي]: من "ما حدث لتلك الشركة ليس استثناءً..." إلى "...دفع ثمنها مرتين!"
+[البرومبت السينمائي]:
+Cinematic split composition: On the left, a tired civil site engineer in a dusty white hardhat frantically signing paper delivery receipts amidst heavy concrete mixer trucks and spinning construction machinery; on the right, an exhausted corporate accountant in a glass boardroom holding his head in distress over glowing red descending spreadsheets, extreme dramatic lighting contrast, safety orange vs midnight blue, 8K, photorealistic.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🎬 المشهد 04 (01:26 - 01:45): جحيم الإكسل وتصدع السد المالي
+[التوقيت الصوتي]: من "أين كان النظام؟" إلى "...يلتهم 10 إلى 30% من الميزانية."
+[البرومبت السينمائي]:
+Extreme close-up macro shot of an executive laptop keyboard and monitor, an intricate Excel spreadsheet glitching with red formula errors and negative cash flow numbers, an architectural blueprint underneath getting slowly soaked in spilled black espresso, dramatic cinematic tension, shallow depth of field, 8K.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🎬 المشهد 05 (01:46 - 02:40): ماستر كلاس ERPNext والدرع الحامي
+[التوقيت الصوتي]: من "دعونا نوقف هذا النزيف للأبد..." إلى "...رسالة حمراء صارمة: تجاوز غير قانوني!"
+[البرومبت السينمائي]:
+A sleek ultra-wide curved modern monitor displaying the clean high-tech interface of ERPNext: dynamic green data streams connecting a 3D isometric building model to an automated General Ledger, smooth automated workflows with glowing green checkmarks, professional enterprise software environment, cinematic lighting, photorealistic.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🎬 المشهد 06 (02:41 - 03:20): إنقاذ الشركة وتحول الأرباح للنمو
+[التوقيت الصوتي]: من "هذا السطر البرمجي البسيط..." إلى "...وهي تظن أنها تربح."
+[البرومبت السينمائي]:
+Cinematic slow tracking shot inside a luxury high-rise boardroom overlooking a glittering futuristic skyline at night, confident executives and civil engineers shaking hands in agreement across a polished walnut table, glowing holographic charts in the background showing steady ascending profit graphs and healthy cash flow, photorealistic, 8K.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🎬 المشهد 07 (03:21 - 03:55): الختام والدعوة للفعل والتحميل
+[التوقيت الصوتي]: من "رابط تحميل هذا الكود البرمجي..." إلى نهاية الحلقة.
+[البرومبت السينمائي]:
+Futuristic enterprise digital vault doorway opening smoothly, revealing glowing holographic icons of Frappe Python code scripts and Excel BOQ templates floating gracefully, soft cyber-cyan and gold volumetric light, ending with clean NEXORA branded subscription badge, 8K, cinematic commercial finish.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 خطوات الإنتاج النهائي للحلقة الأولى:
+1. ولّد المشاهد السبعة عبر Sora أو Runway أو Midjourney.
+2. احفظ المقاطع بأسماء: shot01.mp4 وحتى shot07.mp4 في هذا المجلد.
+3. ملف الصوت voiceover_ep01_master.mp3 جاهز ومطابق لهذه التوقيتات تماماً.
+4. استخدم ملف الدمج الآلي لإنتاج الحلقة الكاملة 4K بأعلى نقاء.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
