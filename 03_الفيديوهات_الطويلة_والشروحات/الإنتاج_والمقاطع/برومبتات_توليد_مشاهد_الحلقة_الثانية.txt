@@ -1,0 +1,171 @@
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                برومبتات Google Flow (Veo) لتوليد مشاهد الحلقة الثانية كاملاً — إتقان                  ║
+║                  GOOGLE FLOW CONTINUOUS 10-SECOND SHOT MASTER PROMPT SUITE                           ║
+║                EPISODE 02: THE EXCEL INFERNO & WHY YOUR MONTHLY P&L IS LYING TO YOU                 ║
+║                     جحيم الإكسل: لماذا يخدعك تقرير الأرباح الشهري وأنت تخسر ملايين؟                    ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+📌 الدستور الفني لـ Google Flow (Veo):
+- النسبة: Horizontal 16:9 (عريض 4K/8K للوثائقيات واليوتيوب)
+- مدة كل لقطة: 10 ثوانٍ متصلة بالضبط (Continuous 10s Sequence)
+- مسار الصوت المتطابق معه: voiceover_ep02_master.mp3
+- تعليمات الاستمرارية البصرية (Visual Continuity): الحفاظ على نمط الإضاءة والألوان الرسمية (Navy Blue & Gold) وجودة السينما الوثائقية الفاخرة.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 01 (00:00 - 00:10) | المشهد 01: موكب التقرير والأرقام الخضراء الخادعة
+ [النص الصوتي المسموع]: "في نهايةِ كلِّ شهر، يدخلُ المديرُ الماليُّ إلى مكتبِ الرئيسِ التنفيذي، حاملاً ملفاً أنيقاً يفيضُ بالأرقامِ الخضراء..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Photorealistic cinematic 8K, horizontal 16:9 aspect ratio, slow forward dolly shot down an opulent corporate executive hallway. A polished CFO in a dark tailored charcoal suit carries a sleek navy leather binder, walking toward a sunlit corner executive corner office. Glass walls reflect ambient city lights. Camera glides smoothly behind him as he opens the heavy double doors, revealing a grand mahogany boardroom overlooking a bustling metropolis skyline. Elegant warm lighting, anamorphic cinema lens, shallow depth of field, 24fps documentary prestige grading.
+
+[NEGATIVE PROMPT]
+cartoon, low resolution, shaky camera, blurry, flat lighting, casual wear.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 02 (00:10 - 00:20) | المشهد 02: وهم النصف مليون دولار والاحتفال الزائف
+ [النص الصوتي المسموع]: "التقريرُ يقولُ بفخر: حققنا هذا الشهرَ أرباحاً صافيةً بقيمةِ نصفِ مليونِ دولار! يبتسمُ الجميع، ويتبادلونَ التهانيَ والأنخاب..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Continue from the same executive boardroom in Shot 01].
+Medium close-up shot of an open leather financial report resting on the polished mahogany table, displaying crisp printed charts glowing with green upward arrows and "+$500,000 NET PROFIT" bold figures. In the background, out-of-focus executive board members smile and shake hands warmly, raising espresso cups in celebration. Soft cinematic golden hour sunlight slanting through floor-to-ceiling glass windows, floating dust motes, rich textures, 8K resolution, 35mm lens, 24fps.
+
+[NEGATIVE PROMPT]
+cartoon, oversaturated green, distorted hands, erratic movement, low quality.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 03 (00:20 - 00:30) | المشهد 03: صدمة العجز وتوقف الموقع
+ [النص الصوتي المسموع]: "لكنْ بعدَ أسبوعٍ واحدٍ فقط... يعجزُ قسمُ الحساباتِ عن سدادِ فواتيرِ مورّدي الأسمنت، ويتعثرُ صرفُ رواتبِ مئاتِ المهندسينَ والعمالِ في الميدان!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Cinematic high-contrast split-screen transition. Left side: An anxious accountant in a dim corporate finance office with stacks of stamped overdue red supplier invoices marked "UNPAID", nervously running hands through his hair before a frozen terminal. Right side: A dusty mega construction site under gloomy overcast skies where cement mixer trucks idle with engines off, and helmeted construction workers stand in frustrated discussion beside quiet machinery. Moody dark cinematic tone, gritty photorealism, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+happy workers, bright comedy, cartoon, fast flickering, low detail.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 04 (00:30 - 00:40) | المشهد 04: خزينة خاوية وسقوط وهم الإكسل
+ [النص الصوتي المسموع]: "كيفَ تحققُ الشركةُ أرباحاً قياسيةً على الورق، بينما خزينتُها البنكيةُ خاويةٌ من السيولة؟ الجوابُ الصادمُ الذي يرفضُ كثيرٌ من المدراءِ تصديقَه: الإكسل.. كان يخدعُكم طوالَ الوقت!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Dramatic macro camera tilt-up. In the foreground, an empty corporate bank checkbook and a mobile banking app showing "$0.00 AVAILABLE BALANCE" in sharp red digital text. In the background, a massive laptop screen displaying a cluttered Microsoft Excel spreadsheet begins to glitch subtly with red calculation errors ("#REF!", "#VALUE!"). A shadowy executive silhouette stares at the screen in disbelief. Moody corporate noir lighting with deep blue shadows and sharp cyan highlights, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+cartoon, colorful arcade graphics, low resolution, blurry faces.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 05 (00:40 - 00:50) | المشهد 05: هوية إتقان — الذكاء المؤسسي
+ [النص الصوتي المسموع]: "أهلاً بكم في قناةِ إتقان — الذكاءُ المؤسسي. رحلتُكم نحو إدارةِ الأعمالِ الذكيةِ والتحولِ الرقمي..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Epic cinematic corporate branding sequence. A futuristic holographic 3D shield emblem composed of interwoven digital circuits, financial data nodes, and upward gold analytical arrows forms seamlessly in dark space with glowing navy blue and metallic cyan reflections. The emblem radiates precision and authoritative institutional security. Volumetric light rays stream outward as floating micro-particles swirl gracefully. Ultra-luxury corporate aesthetic, photorealistic 8K, smooth camera orbit, 24fps.
+
+[NEGATIVE PROMPT]
+cheap 3D, neon rainbow, childish logo, low poly, noisy background.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 06 (00:50 - 01:00) | المشهد 06: الخطيئة القاتلة — الربح الدفتري ضد الكاش
+ [النص الصوتي المسموع]: "أكبرُ خطيئةٍ استراتيجيةٍ ترتكبُها الشركاتُ اليوم، هي الخلطُ القاتلُ بينَ 'الربحِ المحاسبيِّ الدفتري'، وبينَ 'التدفقِ النقديِّ الفعلي'..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Cinematic visualization of financial illusion. A high-tech interactive transparent glass board inside an executive boardroom. A business strategist draws two diverging glowing holographic curves: one green curve labeled "Book Profit (Accrual)" skyrocketing unrealistically, while a second heavy blue curve labeled "Actual Liquid Cash Flow" plummets beneath a critical zero baseline. Subtle volumetric lighting, high corporate focus, shallow depth of field, 8K photorealism.
+
+[NEGATIVE PROMPT]
+messy handwriting, amateur presentation, cartoon figures, pixelated lines.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 07 (01:00 - 01:10) | المشهد 07: فخ المستخلصات المؤجلة وضمان الأعمال
+ [النص الصوتي المسموع]: "ملفُ الإكسلِ يسجلُ المستخلصاتِ الصادرةَ والفواتيرَ كإيراداتٍ وأرباحٍ مؤكدة بمجردِ طباعتِها... لكنهُ يعجزُ تماماً عن إخبارك: أنَّ العميلَ لن يدفعَ ريالاً واحداً قبلَ ستةِ أشهر، وأنَّ نسبةَ عشرةٍ في المائةِ محتجزةٌ كضمانِ أعمالٍ لعامين كاملين!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Slow cinematic tracking shot following a stamped formal progress payment certificate ("Interim Payment Certificate - $2,500,000") floating into a dark steel filing cabinet that locks shut with a heavy mechanical click. A digital holographic timer appears over the lock counting down: "180 DAYS UNTIL DISBURSEMENT | 10% RETENTION HELD FOR 730 DAYS". Cinematic low-key lighting, cool steel blue tones with warm amber warning highlights, 8K resolution, 24fps.
+
+[NEGATIVE PROMPT]
+cartoon, playful, blurry text, low contrast, oversaturated.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 08 (01:10 - 01:20) | المشهد 08: الهدر الصامت في المخازن والصدأ غير المرئي
+ [النص الصوتي المسموع]: "والأسوأُ من ذلك، أنَّ الإكسلَ أعمى عن الهدرِ الصامتِ في المخازن؛ فالحديدُ الذي يصدأ، والأسمنتُ الذي يتصلب، يظلُّ مسجلاً في الجداولِ كأصولٍ رابحة، حتى تقعَ الكارثةُ في يومِ الجردِ السنوي!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Atmospheric slow-motion tracking shot inside a cavernous construction supply warehouse. Stacks of construction steel rebar bundles show visible reddish-brown rust creeping over their textures in detailed close-up; nearby palettes of cement bags are hardened into rock by humidity. Across the screen, transparent ghosted green Excel spreadsheet cells hover over the spoiled inventory reading "ASSET VALUE: $850,000 [ACTIVE]", highlighting the blind delusion of static accounting. Dramatic volumetric sunbeams penetrating dusty warehouse skylights, 8K photorealistic.
+
+[NEGATIVE PROMPT]
+clean brand new materials, cartoon, bright studio lighting, flat depth.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 09 (01:20 - 01:30) | المشهد 09: دراسة هارفارد — 88% من الإكسل يحتوي أخطاء
+ [النص الصوتي المسموع]: "في دراسةٍ موثقةٍ لجامعةِ هارفارد، وُجدَ أنَّ ثمانيةً وثمانينَ في المائةِ من جداولِ الإكسلِ المستخدمةِ في الشركاتِ الكبرى تحتوي على أخطاءٍ حسابيةٍ في المعادلات... بعضُها يبتلعُ ملايينَ الدولاراتِ في صمتٍ مطبق."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Cinematic macro extreme close-up of a high-resolution 4K monitor. The camera drifts across a complex financial spreadsheet. A single misconfigured formula cell "=SUM(B2:B40)" highlights in ominous pulsing amber as it skips 50 crucial expenditure rows, quietly deleting millions of dollars from total expenses. In the background, prestigious university research citations and analytical statistical graphs hover in elegant semi-transparent typography. Sophisticated corporate cinematography, 8K, 50mm macro lens.
+
+[NEGATIVE PROMPT]
+cartoon, glitch art, unreadable mess, low resolution, cheap graphics.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 10 (01:30 - 01:40) | المشهد 10: رفض البرمجيات الاحتكارية والبديل الذكي
+ [النص الصوتي المسموع]: "الحلُّ ليس في شراءِ برمجياتٍ مغلقةٍ باهظةٍ تستنزفُ ميزانيتَك. الحلُّ الحقيقيُّ يكمنُ في تطبيقِ نظامِ إي آر بي نكست، وإعادةِ هندسةِ شجرةِ الحساباتِ لتصبحَ كائناً حياً يتنفسُ مع كلِّ نبضةٍ في شركتك."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Symbolic visual transformation. A heavy iron locked padlock stamped with exorbitant license fee bills "$500,000 / YR" dissolves gracefully into a stream of luminous open-source code and data streams. Emerging from the light is the sleek, modern web interface of ERPNext running on a borderless curved designer monitor. The screen displays an elegant, organized General Ledger and real-time Chart of Accounts tree structure with live animated balance updates. Clean futuristic modern office setting, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+cluttered desktop, cartoon, messy wires, amateur UI, retro 90s computers.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 11 (01:40 - 01:50) | المشهد 11: القيود الآلية ومراكز التكلفة الحية
+ [النص الصوتي المسموع]: "في إتقان، نقومُ بربطِ شجرةِ الحساباتِ بمراكزِ التكلفةِ اللحظية، وتفعيلِ مبدأِ القيودِ الآلية: فعندما يتمُّ استلامُ موادَّ في الموقع، يولدُ النظامُ قيداً فورياً يخصمُ من رصيدِ المورد، ويحمّلُ التكلفةَ على البندِ الفعلي..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Dynamic cinematic action sequence combining physical field operations with digital accounting automation. In an active construction depot, a site logistics officer scans a QR-code receipt on a tablet as a flatbed truck unloads steel rebar. Instantly, an animated holographic link shoots upward into the cloud, triggering an automated balanced Journal Entry in ERPNext: Debit "Project Direct Materials", Credit "Supplier Accounts Payable". Seamless integration between real world and digital ledger, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+video game style, cartoon, slow sluggish animation, low quality.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 12 (01:50 - 02:00) | المشهد 12: رادار التنبؤ بالسيولة 90 يوماً مسبقاً
+ [النص الصوتي المسموع]: "وعندما تصدرُ فاتورةٌ للمبيعات، يُنشئُ النظامُ مساراً متوازياً يتنبأُ بدقةٍ بيومِ دخولِ السيولةِ الفعلي، ويطلقُ إنذاراً مبكراً قبلَ تسعينَ يوماً من أيِّ فجوةِ سيولةٍ تهددُ الرواتب!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Cinematic wide shot of an advanced executive command center. A curved interactive video wall showcases a dynamic 90-day Cash Flow Forecast graph. A glowing gold predictive timeline tracks future receivables and payables across 3 upcoming months, highlighting a potential cash dip and automatically recommending an authorized milestone collection adjustment. Executives around the table nod in confident alignment. Crisp modern architectural interior, warm task lighting, photorealistic 8K, 24fps.
+
+[NEGATIVE PROMPT]
+flat charts, cartoon, dark dungeon, confusing graphics, shaky cam.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 13 (02:00 - 02:15) | المشهد 13: دعوة التحول وقالب شجرة الحسابات
+ [النص الصوتي المسموع]: "لا تديروا إمبراطورياتِكم المستقبليةَ بأدواتٍ عفا عليها الزمن. قالبُ شجرةِ الحساباتِ الهندسيةِ المعتمد، الجاهزُ للاستيرادِ المباشرِ إلى إي آر بي نكست، متاحٌ الآن مجاناً عبرَ الرابطِ في أولِ تعليق. اشتركْ في قناةِ إتقان — الذكاءُ المؤسسي، واحمِ شركتَك من فخِّ الأرباحِ الوهمية!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Inspiring cinematic closing shot. A majestic modern skyscraper tower standing tall against a bright clear morning sky, with sunlight reflecting brilliantly off its glass facade as construction cranes move in harmonious synchronization. A refined graphic overlay emerges in the center: the official ITQAN logo and shield, flanked by elegant call-to-action typography in Arabic and English ("SUBSCRIBE TO ITQAN | LINK IN PINNED COMMENT"). Ultra-crisp corporate triumph, cinematic lens flare, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+dull colors, stormy clouds, broken buildings, cartoon, amateur graphics.
+

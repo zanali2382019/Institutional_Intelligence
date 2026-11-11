@@ -1,0 +1,43 @@
+[Script Info]
+Title: ITQAN EP02 Bilingual Master Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bilingual,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.2,1.2,2,25,25,30,1
+Style: WatermarkAR,Arial,21,&H35FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,9,35,35,25,1
+Style: WatermarkEN,Arial,18,&H35FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,7,35,35,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:03:15.00,WatermarkAR,,0,0,0,,{\c&H30E2E2E2&\b1}الذكاء المؤسسي
+Dialogue: 1,0:00:00.00,0:03:15.00,WatermarkEN,,0,0,0,,{\c&H30E2E2E2&\b1}Institutional Intelligence
+Dialogue: 0,0:00:00.00,0:00:09.60,Bilingual,,0,0,0,,{\c&H00D4FF&}في نهايةِ كلِّ شهر، يدخلُ المديرُ الماليُّ إلى مكتبِ الرئيسِ التنفيذي، حاملاً ملفاً أنيقاً يفيضُ بالأرقامِ الخضراء.\N{\c&HFFFFFF&}At month-end, the CFO walks into the CEO's office holding a sleek binder overflowing with green figures.
+Dialogue: 0,0:00:09.70,0:00:16.20,Bilingual,,0,0,0,,{\c&H00D4FF&}التقريرُ يقولُ بفخر: حققنا هذا الشهرَ أرباحاً صافيةً بقيمةِ نصفِ مليونِ دولار!\N{\c&HFFFFFF&}The report proudly states: We achieved a net profit of half a million dollars this month!
+Dialogue: 0,0:00:16.30,0:00:19.90,Bilingual,,0,0,0,,{\c&H00D4FF&}يبتسمُ الجميع، ويتبادلونَ التهانيَ والأنخاب.\N{\c&HFFFFFF&}Everyone smiles, exchanging congratulations and toasts.
+Dialogue: 0,0:00:20.00,0:00:31.80,Bilingual,,0,0,0,,{\c&H00D4FF&}لكنْ بعدَ أسبوعٍ واحدٍ فقط... يعجزُ قسمُ الحساباتِ عن سدادِ فواتيرِ مورّدي الأسمنت، ويتعثرُ صرفُ رواتبِ المهندسين!\N{\c&HFFFFFF&}Yet just one week later... accounting fails to pay cement suppliers, and engineers' salaries bounce!
+Dialogue: 0,0:00:31.90,0:00:39.20,Bilingual,,0,0,0,,{\c&H00D4FF&}كيفَ تحققُ الشركةُ أرباحاً قياسيةً على الورق، بينما خزينتُها البنكيةُ خاويةٌ من السيولة؟\N{\c&HFFFFFF&}How can a firm post record profits on paper while its bank account sits completely dry?
+Dialogue: 0,0:00:39.30,0:00:46.50,Bilingual,,0,0,0,,{\c&H00D4FF&}الجوابُ الصادمُ الذي يرفضُ كثيرٌ من المدراءِ تصديقَه: الإكسل.. كان يخدعُكم طوالَ الوقت!\N{\c&HFFFFFF&}The shocking truth many managers refuse to admit: Excel has been lying to you all along!
+Dialogue: 0,0:00:46.60,0:00:54.60,Bilingual,,0,0,0,,{\c&H00D4FF&}أهلاً بكم في قناةِ إتقان — الذكاءُ المؤسسي. رحلتُكم نحو إدارةِ الأعمالِ الذكيةِ والتحولِ الرقمي.\N{\c&HFFFFFF&}Welcome to ITQAN — Institutional Intelligence. Your journey to smart business management.
+Dialogue: 0,0:00:54.70,0:01:05.80,Bilingual,,0,0,0,,{\c&H00D4FF&}أكبرُ خطيئةٍ استراتيجيةٍ ترتكبُها الشركاتُ اليوم، هي الخلطُ القاتلُ بينَ "الربحِ الدفتري" و"التدفقِ النقديِّ الفعلي".\N{\c&HFFFFFF&}The deadliest strategic sin firms commit today is confusing "Book Profit" with "Actual Cash Flow".
+Dialogue: 0,0:01:05.90,0:01:13.70,Bilingual,,0,0,0,,{\c&H00D4FF&}ملفُ الإكسلِ يسجلُ المستخلصاتِ الصادرةَ والفواتيرَ كإيراداتٍ وأرباحٍ مؤكدة بمجردِ طباعتِها...\N{\c&HFFFFFF&}Excel logs issued certificates and invoices as guaranteed revenue the moment they are printed...
+Dialogue: 0,0:01:13.80,0:01:26.00,Bilingual,,0,0,0,,{\c&H00D4FF&}...لكنهُ يعجزُ تماماً عن إخبارك: أنَّ العميلَ لن يدفعَ قبلَ 6 أشهر، وأنَّ 10% محتجزةٌ كضمانِ أعمالٍ لعامين!\N{\c&HFFFFFF&}...yet fails to warn you: clients won't pay for 6 months, and 10% is locked in retention for two years!
+Dialogue: 0,0:01:26.10,0:01:33.90,Bilingual,,0,0,0,,{\c&H00D4FF&}والأسوأُ من ذلك، أنَّ الإكسلَ أعمى عن الهدرِ الصامتِ في المخازن؛ فالحديدُ الذي يصدأ، والأسمنتُ الذي يتصلب...\N{\c&HFFFFFF&}Worse yet, Excel is blind to silent site wastage; rusting rebar and hardened cement bags...
+Dialogue: 0,0:01:34.00,0:01:41.70,Bilingual,,0,0,0,,{\c&H00D4FF&}...يظلُّ مسجلاً في الجداولِ كأصولٍ رابحة، حتى تقعَ الكارثةُ في يومِ الجردِ السنوي!\N{\c&HFFFFFF&}...remain booked as profitable assets in spreadsheets until disaster hits on annual audit day!
+Dialogue: 0,0:01:41.80,0:01:50.50,Bilingual,,0,0,0,,{\c&H00D4FF&}في دراسةٍ موثقةٍ لجامعةِ هارفارد، وُجدَ أنَّ 88% من جداولِ الإكسلِ في الشركاتِ الكبرى...\N{\c&HFFFFFF&}A verified Harvard study found that 88% of enterprise Excel spreadsheets used in major firms...
+Dialogue: 0,0:01:50.60,0:01:59.20,Bilingual,,0,0,0,,{\c&H00D4FF&}...تحتوي على أخطاءٍ حسابيةٍ في المعادلات، بعضُها يبتلعُ ملايينَ الدولاراتِ في صمتٍ مطبق.\N{\c&HFFFFFF&}...contain formula errors, some quietly swallowing millions of dollars without anyone noticing.
+Dialogue: 0,0:01:59.30,0:02:04.30,Bilingual,,0,0,0,,{\c&H00D4FF&}الحلُّ ليس في شراءِ برمجياتٍ مغلقةٍ باهظةٍ تستنزفُ ميزانيتَك.\N{\c&HFFFFFF&}The answer isn't buying bloated proprietary software that drains your capital budget.
+Dialogue: 0,0:02:04.40,0:02:15.60,Bilingual,,0,0,0,,{\c&H00D4FF&}الحلُّ الحقيقيُّ يكمنُ في تطبيقِ نظامِ ERPNext، وإعادةِ هندسةِ شجرةِ الحساباتِ لتصبحَ كائناً حياً يتنفس!\N{\c&HFFFFFF&}The true fix lies in deploying ERPNext and re-engineering your Chart of Accounts into a living pulse!
+Dialogue: 0,0:02:15.70,0:02:23.40,Bilingual,,0,0,0,,{\c&H00D4FF&}في إتقان، نقومُ بربطِ شجرةِ الحساباتِ بمراكزِ التكلفةِ اللحظية، وتفعيلِ مبدأِ القيودِ الآلية:\N{\c&HFFFFFF&}At ITQAN, we bind the Chart of Accounts to live Cost Centers and activate Automated Ledgers:
+Dialogue: 0,0:02:23.50,0:02:33.80,Bilingual,,0,0,0,,{\c&H00D4FF&}فعندما يتمُّ استلامُ موادَّ في الموقع، يولدُ النظامُ قيداً فورياً يخصمُ من رصيدِ المورد، ويحمّلُ التكلفةَ على البندِ الفعلي.\N{\c&HFFFFFF&}When site materials arrive, the system posts an instant ledger deducting supplier balance to actual cost.
+Dialogue: 0,0:02:33.90,0:02:41.50,Bilingual,,0,0,0,,{\c&H00D4FF&}وعندما تصدرُ فاتورةٌ للمبيعات، يُنشئُ النظامُ مساراً متوازياً يتنبأُ بدقةٍ بيومِ دخولِ السيولةِ الفعلي...\N{\c&HFFFFFF&}When a sales invoice is issued, parallel logic tracks exact expected cash collection dates...
+Dialogue: 0,0:02:41.60,0:02:48.90,Bilingual,,0,0,0,,{\c&H00D4FF&}...ويطلقُ إنذاراً مبكراً قبلَ 90 يوماً من أيِّ فجوةِ سيولةٍ تهددُ الرواتب!\N{\c&HFFFFFF&}...triggering an early warning 90 days ahead of any cash deficit threatening payroll!
+Dialogue: 0,0:02:49.00,0:02:54.00,Bilingual,,0,0,0,,{\c&H00D4FF&}لا تديروا إمبراطورياتِكم المستقبليةَ بأدواتٍ عفا عليها الزمن.\N{\c&HFFFFFF&}Do not run your future empires on outdated tools from forty years ago.
+Dialogue: 0,0:02:54.10,0:03:05.20,Bilingual,,0,0,0,,{\c&H00D4FF&}قالبُ شجرةِ الحساباتِ الهندسيةِ المعتمد، الجاهزُ للاستيرادِ إلى ERPNext، متاحٌ مجاناً عبرَ الرابطِ في أولِ تعليق.\N{\c&HFFFFFF&}Our certified Engineering Chart of Accounts template for ERPNext is free via the pinned comment!
+Dialogue: 0,0:03:05.30,0:03:12.50,Bilingual,,0,0,0,,{\c&H00D4FF&}اشتركْ في قناةِ إتقان — الذكاءُ المؤسسي، واحمِ شركتَك من فخِّ الأرباحِ الوهمية!\N{\c&HFFFFFF&}Subscribe to ITQAN — Institutional Intelligence, and shield your company from fake profits!
+
