@@ -143,23 +143,24 @@ def merge_longform_episode01():
         final_dest = prod_dir / "NEXORA_EP01_CARTHET_AL_MOSTAKHLESAAT_FINAL.mp4"
 
         print(f"\n[3/4] Merging {len(shots)} shots with Master Voiceover...")
-        print("      Encoding: H.264 High-Profile, 1080p 16:9, CRF=18, AAC 320kbps...")
+        print("      Output Specification: 720p HD (1280x720) 16:9 Cinematic Ambient Fill...")
+        print("      Optimization: Ultra-compact size, H.264 CRF=25, AAC 128k...")
 
         cmd = [
             ffmpeg_exe, "-y",
             "-f", "concat", "-safe", "0", "-i", str(concat_list_file.as_posix()),
             "-i", str(temp_audio.as_posix()),
             "-filter_complex",
-            # Scale & pad to 1080p 16:9 without distortion
-            "[0:v]scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,format=yuv420p[v]",
+            # Horizontal 16:9 720p Cinematic Ambient Broadcast Fill (No raw black bars)
+            "[0:v]scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,boxblur=20:5,eq=brightness=-0.2[bg];[0:v]scale=-1:720[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,format=yuv420p[v]",
             "-map", "[v]",
             "-map", "1:a",
             "-c:v", "libx264",
-            "-preset", "slow",
-            "-crf", "18",
+            "-preset", "medium",
+            "-crf", "25",
             "-c:a", "aac",
             "-strict", "-2",
-            "-b:a", "320k",
+            "-b:a", "128k",
             "-shortest",
             "-movflags", "+faststart",
             str(temp_output.as_posix())
