@@ -1,7 +1,8 @@
 """
-NEXORA Enterprise Intelligence Studio — Master Long-Form Video Merger
+ITQAN Enterprise Intelligence Studio — Master Long-Form Video Merger
 Merges 24 cinematic enterprise 16:9 shots with the Master AI Voiceover (voiceover_ep01_master.mp3),
-applies the luxury broadcast color grading, and renders the final 4K/1080p master video.
+burns synchronized bilingual subtitles (Arabic & English), embeds the permanent watermark '(الذكاء المؤسسي)',
+and renders the ultra-compact 720p HD broadcast master video.
 """
 
 import os
@@ -34,7 +35,8 @@ def find_ffmpeg() -> str:
 
 def merge_longform_episode01():
     print("=" * 70)
-    print("   NEXORA STUDIO — LONG-FORM EPISODE 01 MASTER VIDEO MERGER")
+    print("   ITQAN STUDIO — LONG-FORM EPISODE 01 MASTER VIDEO MERGER")
+    print("   إتقان — الذكاء المؤسسي")
     print("   كارثة المستخلصات: كيف ابتلع بند خرسانة واحد 12 مليون دولار؟")
     print("=" * 70)
 
@@ -45,8 +47,7 @@ def merge_longform_episode01():
     print(f"\n[*] Using FFmpeg binary: {ffmpeg_exe}")
     print(f"[*] Production directory: {prod_dir}")
 
-    # Look for shots in production dir or Downloads
-    # Supports: 1.mp4 .. 24.mp4, 01.mp4 .. 24.mp4, shot01.mp4, shot1.mp4, etc.
+    # Look for shots in production dir
     import re
     shots = []
     for i in range(1, 25):
@@ -77,7 +78,6 @@ def merge_longform_episode01():
             for pattern in patterns:
                 candidate = user_downloads / pattern
                 if candidate.exists():
-                    # Copy to prod dir
                     dest = prod_dir / f"{i}.mp4"
                     shutil.copy2(candidate, dest)
                     shots.append(dest)
@@ -86,7 +86,6 @@ def merge_longform_episode01():
                     break
 
     if not shots:
-        # Fallback: scan any mp4s in production directory and sort by extracted number
         all_mp4s = [f for f in prod_dir.glob("*.mp4") if "final" not in f.name.lower()]
         def extract_num(p):
             m = re.search(r'(\d+)', p.stem)
@@ -96,12 +95,9 @@ def merge_longform_episode01():
 
     if not shots:
         print(f"\n[!] No video clips found in: {prod_dir}")
-        print("    يرجى حفظ أو تنزيل مقاطع الفيديو في هذا المجلد بأي صيغة ترتاح لها:")
-        print("    1.mp4, 2.mp4, 3.mp4 ... 24.mp4")
-        print("    أو shot01.mp4, shot02.mp4 ... shot24.mp4")
         sys.exit(1)
 
-    print(f"\n[1/4] Found {len(shots)} video clips:")
+    print(f"\n[1/5] Found {len(shots)} video clips:")
     for s in shots:
         print(f"      - {s.name} ({s.stat().st_size / 1024 / 1024:.2f} MB)")
 
@@ -116,16 +112,24 @@ def merge_longform_episode01():
         print(f"\n[!] Voiceover file not found in: {prod_dir}")
         sys.exit(1)
 
-    print(f"\n[2/4] Found Master AI Voiceover: {vo_file.name} ({vo_file.stat().st_size / 1024 / 1024:.2f} MB)")
+    print(f"\n[2/5] Master AI Voiceover: {vo_file.name} ({vo_file.stat().st_size / 1024 / 1024:.2f} MB)")
 
-    # Temp staging for ASCII safety
-    temp_dir = Path(tempfile.gettempdir()) / "nexora_longform_ep01_merge"
+    # Subtitles check
+    sub_file = prod_dir / "ep01_bilingual_subtitles.ass"
+    if not sub_file.exists():
+        print(f"\n[!] Subtitle file not found: {sub_file}")
+        sys.exit(1)
+
+    print(f"\n[3/5] Bilingual Subtitles & Watermark: {sub_file.name}")
+
+    # Temp staging for ASCII safety and relative path isolation
+    temp_dir = Path(tempfile.gettempdir()) / "itqan_longform_ep01_merge"
     if temp_dir.exists():
         shutil.rmtree(temp_dir, ignore_errors=True)
     temp_dir.mkdir(parents=True, exist_ok=True)
 
     try:
-        # Generate concat list with relative names (FFmpeg concat resolves relative to concat_list.txt location)
+        # Generate concat list with relative names
         list_lines = []
         for i, s in enumerate(shots, 1):
             dest_name = f"shot_{i:02d}.mp4"
@@ -139,20 +143,28 @@ def merge_longform_episode01():
         temp_audio = temp_dir / "master_audio.mp3"
         shutil.copy2(str(vo_file), str(temp_audio))
 
-        temp_output = temp_dir / "final_output.mp4"
-        final_dest = prod_dir / "NEXORA_EP01_CARTHET_AL_MOSTAKHLESAAT_FINAL.mp4"
+        temp_sub = temp_dir / "subtitles.ass"
+        shutil.copy2(str(sub_file), str(temp_sub))
 
-        print(f"\n[3/4] Merging {len(shots)} shots with Master Voiceover...")
-        print("      Output Specification: 720p HD (1280x720) 16:9 Cinematic Ambient Fill...")
-        print("      Optimization: Ultra-compact size, H.264 CRF=25, AAC 128k...")
+        temp_output = temp_dir / "final_output.mp4"
+        final_dest = prod_dir / "ITQAN_EP01_CARTHET_AL_MOSTAKHLESAAT_FINAL.mp4"
+
+        print(f"\n[4/5] Rendering Master Video with FFmpeg...")
+        print("      - Resolution: 720p HD (1280x720) 16:9 Cinematic Ambient Fill")
+        print("      - Watermark: (الذكاء المؤسسي) permanently embedded at Top-Right")
+        print("      - Subtitles: Bilingual Arabic & English with Netflix/Bloomberg styling")
+        print("      - Compression: Ultra-compact H.264 CRF=25, AAC 128k audio")
 
         cmd = [
             ffmpeg_exe, "-y",
             "-f", "concat", "-safe", "0", "-i", str(concat_list_file.as_posix()),
             "-i", str(temp_audio.as_posix()),
             "-filter_complex",
-            # Horizontal 16:9 720p Cinematic Ambient Broadcast Fill (No raw black bars)
-            "[0:v]scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,boxblur=20:5,eq=brightness=-0.2[bg];[0:v]scale=-1:720[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,format=yuv420p[v]",
+            # 1. 720p Ambient Fill: blurred 16:9 background + sharp centered foreground
+            # 2. Burn ASS subtitles (bilingual text + continuous watermark badge)
+            "[0:v]scale=1280:720:force_original_aspect_ratio=increase,crop=1280:720,boxblur=20:5,eq=brightness=-0.2[bg];"
+            "[0:v]scale=-1:720[fg];"
+            "[bg][fg]overlay=(W-w)/2:(H-h)/2,ass=subtitles.ass,format=yuv420p[v]",
             "-map", "[v]",
             "-map", "1:a",
             "-c:v", "libx264",
@@ -174,11 +186,11 @@ def merge_longform_episode01():
 
         # Move to production folder
         shutil.copy2(str(temp_output), str(final_dest))
-        print(f"\n[4/4] SUCCESS! Master Episode 01 rendered successfully:")
+        print(f"\n[5/5] SUCCESS! Master Episode 01 rendered successfully:")
         print(f"      -> {final_dest}")
         print(f"      -> Size: {final_dest.stat().st_size / 1024 / 1024:.2f} MB")
         print("=" * 70)
-        print("   الحلقة الأولى جاهزة للنشر على YouTube بدقة 1080p وصوت استوديو ماستر!")
+        print("   الحلقة الأولى جاهزة للنشر على YouTube بكامل المواصفات المطلوبة!")
         print("=" * 70)
 
     finally:
@@ -186,4 +198,3 @@ def merge_longform_episode01():
 
 if __name__ == "__main__":
     merge_longform_episode01()
-

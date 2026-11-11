@@ -26,9 +26,20 @@ async def generate(text: str, voice_key: str, out_path: str, rate: str):
     voice = VOICE_OPTIONS.get(voice_key, voice_key)
     print(f"[*] Generating voiceover using voice: {voice}")
     print(f"[*] Speed rate: {rate}")
-    communicate = edge_tts.Communicate(text, voice, rate=rate)
-    await communicate.save(out_path)
-    print(f"[OK] Voiceover saved to: {out_path} ({os.path.getsize(out_path) / 1024:.1f} KB)")
+    
+    max_retries = 4
+    for attempt in range(1, max_retries + 1):
+        try:
+            communicate = edge_tts.Communicate(text, voice, rate=rate)
+            await communicate.save(out_path)
+            print(f"[OK] Voiceover saved to: {out_path} ({os.path.getsize(out_path) / 1024:.1f} KB)")
+            return
+        except Exception as e:
+            print(f"[!] Attempt {attempt}/{max_retries} failed with error: {e}")
+            if attempt < max_retries:
+                await asyncio.sleep(2 * attempt)
+            else:
+                raise
 
 def main():
     parser = argparse.ArgumentParser(description="Generate Executive Arabic Voiceover")

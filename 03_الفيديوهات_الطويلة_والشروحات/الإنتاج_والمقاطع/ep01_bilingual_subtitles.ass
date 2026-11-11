@@ -1,0 +1,43 @@
+[Script Info]
+Title: ITQAN EP01 Bilingual Master Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bilingual,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.2,1.2,2,25,25,30,1
+Style: WatermarkAR,Arial,21,&H35FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,9,35,35,25,1
+Style: WatermarkEN,Arial,18,&H35FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,7,35,35,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:04:00.00,WatermarkAR,,0,0,0,,{\c&H30E2E2E2&\b1}الذكاء المؤسسي
+Dialogue: 1,0:00:00.00,0:04:00.00,WatermarkEN,,0,0,0,,{\c&H30E2E2E2&\b1}Institutional Intelligence
+Dialogue: 0,0:00:00.00,0:00:08.80,Bilingual,,0,0,0,,{\c&H00D4FF&}في عامِ 2022، توقفت أكبرُ رافعةٍ برجيةٍ في أحدِ أضخمِ مشاريعِ الأبراجِ بالعاصمةِ عن الدورانِ فجأة.\N{\c&HFFFFFF&}In 2022, the largest tower crane on a massive capital skyscraper suddenly ground to a halt.
+Dialogue: 0,0:00:09.50,0:00:20.00,Bilingual,,0,0,0,,{\c&H00D4FF&}لم يكن التوقفُ بسببِ عطلٍ ميكانيكي ولا نقصٍ في الأسمنت، بل لأنَّ شيكاً بـ 12 مليون دولار ارتدَّ دونَ رصيد!\N{\c&HFFFFFF&}It wasn't a mechanical breakdown or cement shortage, but a bounced $12M check!
+Dialogue: 0,0:00:20.70,0:00:32.20,Bilingual,,0,0,0,,{\c&H00D4FF&}والمفاجأةُ الصادمة؟ أنَّ تقاريرَ الأرباحِ في مطلعِ ذلك الشهر كانت تؤكدُ لمجلسِ الإدارةِ تحقيقَ أرباحٍ 15%!\N{\c&HFFFFFF&}The shock? Profit reports that very month assured the board of a 15% net profit!
+Dialogue: 0,0:00:33.00,0:00:36.50,Bilingual,,0,0,0,,{\c&H00D4FF&}أهلاً بكم في إتقان — الذكاءُ المؤسسي.\N{\c&HFFFFFF&}Welcome to ITQAN — Institutional Intelligence.
+Dialogue: 0,0:00:37.00,0:00:47.30,Bilingual,,0,0,0,,{\c&H00D4FF&}ما حدثَ لتلك الشركةِ ليس استثناءً، بل كابوسٌ يومي يتكررُ في 8 من كلِّ 10 شركاتِ مقاولاتٍ حولَ العالم.\N{\c&HFFFFFF&}What happened isn't an exception; it's a daily nightmare in 8 of every 10 construction firms.
+Dialogue: 0,0:00:48.00,0:00:55.50,Bilingual,,0,0,0,,{\c&H00D4FF&}في الموقع، مهندسُ التنفيذِ يقفُ وسطَ الغبارِ وضجيجِ المعدات، ويوقّعُ مستخلصاً لمقاولِ الباطن...\N{\c&HFFFFFF&}On site, the field engineer amid the dust and noise hastily signs a subcontractor claim...
+Dialogue: 0,0:00:55.50,0:01:03.00,Bilingual,,0,0,0,,{\c&H00D4FF&}...لصبِّ 5,000 مترٍ مكعبٍ من الخرسانة، بناءً على إنجازٍ ظاهري وتفادياً لتوقفِ العمل.\N{\c&HFFFFFF&}...for pouring 5,000 m³ of concrete, based on visual progress to avoid work stoppage.
+Dialogue: 0,0:01:03.80,0:01:12.50,Bilingual,,0,0,0,,{\c&H00D4FF&}وفي الإدارةِ المالية، يجلسُ المحاسبُ أمامَ شاشته، يراجعُ الفاتورة، ويسجلُ القيد، ثم يصدرُ أمرَ الصرف...\N{\c&HFFFFFF&}In finance, the accountant checks the invoice, enters the ledger, and issues payment...
+Dialogue: 0,0:01:12.50,0:01:22.20,Bilingual,,0,0,0,,{\c&H00D4FF&}...دونَ أن يدرك، أنَّ جدولَ الكمياتِ المعتمدَ في العقد، حصرَ هذا البندَ بـ 3,500 مترٍ مكعبٍ فقط!\N{\c&HFFFFFF&}...unaware that the approved contract BOQ capped this item at just 3,500 m³!
+Dialogue: 0,0:01:23.00,0:01:33.00,Bilingual,,0,0,0,,{\c&H00D4FF&}الفارق؟ 1,500 مترٍ مكعبٍ من الخرسانة، دفعَت الشركةُ ثمنَها مرتين: للمورّدِ ولمقاولِ الباطن!\N{\c&HFFFFFF&}The difference? 1,500 m³ of concrete paid twice: to the supplier and subcontractor!
+Dialogue: 0,0:01:33.70,0:01:45.00,Bilingual,,0,0,0,,{\c&H00D4FF&}أينَ كانَ النظام؟ النظامُ كانَ عبارةً عن ملفِ إكسلٍ معزول، يملكهُ شخصٌ واحد، ولا يراهُ أحد!\N{\c&HFFFFFF&}Where was the system? An isolated Excel sheet, owned by one person and seen by none!
+Dialogue: 0,0:01:45.80,0:01:54.00,Bilingual,,0,0,0,,{\c&H00D4FF&}أبحاثُ معهدِ ماكنزي العالمي تؤكد، أنَّ 98% من المشاريعِ الكبرى تواجهُ عجزاً مالياً وتأخيراً كارثياً...\N{\c&HFFFFFF&}McKinsey Global Institute confirms that 98% of megaprojects face cost overruns and delays...
+Dialogue: 0,0:01:54.00,0:02:05.00,Bilingual,,0,0,0,,{\c&H00D4FF&}...وأنَّ الهدرَ في سلاسلِ الإمدادِ وانفصالَ الموقعِ عن الإدارة، يلتهمُ بينَ 10% إلى 30% من ميزانيةِ الشركات.\N{\c&HFFFFFF&}...and supply chain leakages drain 10% to 30% of corporate capital budgets.
+Dialogue: 0,0:02:05.80,0:02:18.00,Bilingual,,0,0,0,,{\c&H00D4FF&}دعونا نوقفْ هذا النزيفَ للأبد. في عالمِ إتقان، الموقعُ والماليةُ جسدٌ واحد، ينبضُ بلغةٍ رقميةٍ صارمة.\N{\c&HFFFFFF&}Let's stop this bleed. In ITQAN, site and finance are one unified digital pulse.
+Dialogue: 0,0:02:18.50,0:02:28.50,Bilingual,,0,0,0,,{\c&H00D4FF&}لن نفتحَ ملفاتِ إكسل، بل سنفتحُ الآن نظامَ ERPNext، لنرى كيفَ تحوّلُ خوارزميةٌ حصرَ الكمياتِ إلى جدارٍ ناري.\N{\c&HFFFFFF&}No Excel. We open ERPNext to see how an algorithm turns the BOQ into a financial firewall.
+Dialogue: 0,0:02:29.00,0:02:37.50,Bilingual,,0,0,0,,{\c&H00D4FF&}عندما نربطُ جدولَ الكمياتِ بمراكزِ التكلفة، يتحولُ كلُّ مترٍ خرساني إلى رصيدٍ دفتري ملزم.\N{\c&HFFFFFF&}By binding the BOQ to cost centers, every cubic meter becomes an enforced ledger limit.
+Dialogue: 0,0:02:38.00,0:02:46.00,Bilingual,,0,0,0,,{\c&H00D4FF&}وعندما يحاولُ مهندسُ الموقعِ أو مقاولُ الباطنِ رفعَ مستخلصٍ يتجاوزُ السقفَ المعتمدَ بمترٍ واحدٍ فقط...\N{\c&HFFFFFF&}When site staff attempt to submit a claim exceeding the approved cap by just one meter...
+Dialogue: 0,0:02:46.50,0:02:54.00,Bilingual,,0,0,0,,{\c&H00D4FF&}...فإنَّ النظامَ يتدخلُ برمجياً: "تجاوزٌ غيرُ قانوني لموازنةِ المشروع! لا يمكنُ الاعتمادُ أو الصرف..."\N{\c&HFFFFFF&}...the system intervenes: "Unauthorized Budget Overrun! Approval and Payment Locked..."
+Dialogue: 0,0:02:54.00,0:03:00.00,Bilingual,,0,0,0,,{\c&H00D4FF&}"...إلا بعدَ إصدارِ أمرِ تغييرٍ معتمد، وتوقيعِ ملحقِ العقدِ المالي من الإدارةِ التنفيذية."\N{\c&HFFFFFF&}"...subject to an approved Change Order and an executive-signed contract addendum."
+Dialogue: 0,0:03:00.80,0:03:11.00,Bilingual,,0,0,0,,{\c&H00D4FF&}هذا السطرُ البرمجيُّ البسيط، كان كفيلاً بإنقاذِ الشركةِ من الإفلاس، وتوفيرِ 12 مليون دولار وحمايةِ مئاتِ الوظائف.\N{\c&HFFFFFF&}This simple line of code saved the company, preserved $12M, and protected hundreds of jobs.
+Dialogue: 0,0:03:11.80,0:03:25.00,Bilingual,,0,0,0,,{\c&H00D4FF&}الحوكمةُ والذكاءُ المؤسسيُّ ليسا رفاهية، بل الفارقُ الدقيقُ بينَ شركةٍ تصنعُ مجداً، وأخرى تتهاوى فجأةً في صمت.\N{\c&HFFFFFF&}Governance is not a luxury; it's the fine line between sustainable growth and sudden collapse.
+Dialogue: 0,0:03:25.80,0:03:38.00,Bilingual,,0,0,0,,{\c&H00D4FF&}ولمعرفةِ المزيدِ والمزيد، تواصلْ معنا.. رقمُ التواصلِ واتساب وتلجرام: 445 650 774 967+\N{\c&HFFFFFF&}To discover more, contact us.. WhatsApp & Telegram: +967 774 650 445
+Dialogue: 0,0:03:38.50,0:03:52.00,Bilingual,,0,0,0,,{\c&H00D4FF&}اشتركْ في قناةِ إتقان — الذكاءُ المؤسسي، وشاركْ هذا الفيديو مع مديرِك التنفيذي ومديرِك المالي!\N{\c&HFFFFFF&}Subscribe to ITQAN — Institutional Intelligence, and share this with your CEO & CFO!
+Dialogue: 0,0:03:52.50,0:04:00.00,Bilingual,,0,0,0,,{\c&H00D4FF&}إتقان — الذكاء المؤسسي | استشارات وحلول الحوكمة وأنظمة ERP\N{\c&HFFFFFF&}ITQAN — Institutional Intelligence | Governance & Enterprise ERP Solutions
