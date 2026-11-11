@@ -46,10 +46,26 @@ def merge_longform_episode01():
     print(f"[*] Production directory: {prod_dir}")
 
     # Look for shots in production dir or Downloads
+    # Supports: 1.mp4 .. 24.mp4, 01.mp4 .. 24.mp4, shot01.mp4, shot1.mp4, etc.
+    import re
     shots = []
     for i in range(1, 25):
         found = False
-        for pattern in (f"shot{i:02d}.mp4", f"shot0{i}.mp4", f"shot{i}.mp4", f"clip{i:02d}.mp4", f"clip{i}.mp4", f"part{i:02d}.mp4"):
+        patterns = (
+            f"{i}.mp4",
+            f"{i:02d}.mp4",
+            f"shot{i:02d}.mp4",
+            f"shot0{i}.mp4",
+            f"shot{i}.mp4",
+            f"shot_{i:02d}.mp4",
+            f"shot_{i}.mp4",
+            f"clip{i:02d}.mp4",
+            f"clip{i}.mp4",
+            f"video{i:02d}.mp4",
+            f"video{i}.mp4",
+            f"part{i:02d}.mp4"
+        )
+        for pattern in patterns:
             candidate = prod_dir / pattern
             if candidate.exists() and "final" not in candidate.name.lower():
                 shots.append(candidate)
@@ -58,26 +74,31 @@ def merge_longform_episode01():
         if not found:
             # Check user Downloads folder as fallback
             user_downloads = Path.home() / "Downloads"
-            for pattern in (f"shot{i:02d}.mp4", f"shot0{i}.mp4", f"shot{i}.mp4"):
+            for pattern in patterns:
                 candidate = user_downloads / pattern
                 if candidate.exists():
                     # Copy to prod dir
-                    dest = prod_dir / f"shot{i:02d}.mp4"
+                    dest = prod_dir / f"{i}.mp4"
                     shutil.copy2(candidate, dest)
                     shots.append(dest)
-                    print(f"    [+] Imported {candidate.name} from Downloads folder.")
+                    print(f"    [+] Imported {candidate.name} from Downloads as {i}.mp4")
                     found = True
                     break
 
     if not shots:
-        # Wildcard search for any mp4 clips in production directory
-        candidates = sorted(list(prod_dir.glob("*.mp4")), key=lambda p: p.name)
-        shots = [c for c in candidates if "final" not in c.name.lower()]
+        # Fallback: scan any mp4s in production directory and sort by extracted number
+        all_mp4s = [f for f in prod_dir.glob("*.mp4") if "final" not in f.name.lower()]
+        def extract_num(p):
+            m = re.search(r'(\d+)', p.stem)
+            return int(m.group(1)) if m else 999
+        candidates = sorted(all_mp4s, key=extract_num)
+        shots = [c for c in candidates if extract_num(c) <= 24]
 
     if not shots:
         print(f"\n[!] No video clips found in: {prod_dir}")
-        print("    يرجى حفظ أو تنزيل مقاطع الفيديو في هذا المجلد بأسماء:")
-        print("    shot01.mp4, shot02.mp4, ... shot24.mp4")
+        print("    يرجى حفظ أو تنزيل مقاطع الفيديو في هذا المجلد بأي صيغة ترتاح لها:")
+        print("    1.mp4, 2.mp4, 3.mp4 ... 24.mp4")
+        print("    أو shot01.mp4, shot02.mp4 ... shot24.mp4")
         sys.exit(1)
 
     print(f"\n[1/4] Found {len(shots)} video clips:")
