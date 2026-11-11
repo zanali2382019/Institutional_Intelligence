@@ -1,0 +1,26 @@
+[Script Info]
+Title: ITQAN Short 01 Bilingual Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 720
+PlayResY: 1280
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bilingual,Arial,34,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,30,30,220,1
+Style: WatermarkAR,Arial,20,&H30FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,9,25,25,45,1
+Style: WatermarkEN,Arial,17,&H30FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,7,25,25,47,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:02.00,0:00:52.00,WatermarkAR,,0,0,0,,{\c&H30E2E2E2&\b1}الذكاء المؤسسي
+Dialogue: 1,0:00:02.00,0:00:52.00,WatermarkEN,,0,0,0,,{\c&H30E2E2E2&\b1}Institutional Intelligence
+Dialogue: 0,0:00:02.00,0:00:08.80,Bilingual,,0,0,0,,{\c&H00D4FF&}في عامِ 2022، توقفت أكبرُ رافعةٍ برجيةٍ في العاصمةِ عن الدورانِ فجأة!\N{\c&HFFFFFF&}In 2022, the capital's largest crane suddenly stopped rotating!
+Dialogue: 0,0:00:09.00,0:00:15.80,Bilingual,,0,0,0,,{\c&H00D4FF&}لم يكن السببُ عطلاً ميكانيكياً، بل شيكاً بـ 12 مليونَ دولار ارتدَّ دونَ رصيد!\N{\c&HFFFFFF&}Not a mechanical fault, but a bounced $12M check!
+Dialogue: 0,0:00:16.20,0:00:23.80,Bilingual,,0,0,0,,{\c&H00D4FF&}والصدمة؟ تقاريرُ الأرباحِ كانت تؤكدُ للإدارةِ أنَّ المشروعَ يربحُ 15%!\N{\c&HFFFFFF&}The shock? Profit reports confirmed a 15% net profit!
+Dialogue: 0,0:00:24.20,0:00:30.50,Bilingual,,0,0,0,,{\c&H00D4FF&}السبب؟ مهندسُ الموقعِ وقّعَ مستخلصاً لصبِّ 5,000 مترِ خرسانة...\N{\c&HFFFFFF&}Why? Site engineer approved pouring 5,000 m³ concrete...
+Dialogue: 0,0:00:30.80,0:00:36.00,Bilingual,,0,0,0,,{\c&H00D4FF&}...بينما جدولُ الكمياتِ حصرَ البندَ بـ 3,500 مترٍ فقط!\N{\c&HFFFFFF&}...while the contract BOQ capped it at only 3,500 m³!
+Dialogue: 0,0:00:36.30,0:00:41.80,Bilingual,,0,0,0,,{\c&H00D4FF&}فدفعت الشركةُ ثمنَ 1,500 مترٍ مكعبٍ مرتين!\N{\c&HFFFFFF&}So the firm paid for 1,500 m³ twice!
+Dialogue: 0,0:00:42.20,0:00:46.80,Bilingual,,0,0,0,,{\c&H00D4FF&}شاهد الحلقةَ كاملةً الآن على قناة: إتقان — الذكاء المؤسسي!\N{\c&HFFFFFF&}Watch full episode now on: ITQAN — Institutional Intelligence!
+Dialogue: 0,0:00:47.00,0:00:51.50,Bilingual,,0,0,0,,{\c&H00D4FF&}ورابطُ الحلقةِ كاملةً في أولِ تعليق!\N{\c&HFFFFFF&}Full Episode link is in the first comment!

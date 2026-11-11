@@ -1,0 +1,26 @@
+[Script Info]
+Title: ITQAN Short 02 Bilingual Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 720
+PlayResY: 1280
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bilingual,Arial,34,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,30,30,220,1
+Style: WatermarkAR,Arial,20,&H30FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,9,25,25,45,1
+Style: WatermarkEN,Arial,17,&H30FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,7,25,25,47,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:02.00,0:00:57.00,WatermarkAR,,0,0,0,,{\c&H30E2E2E2&\b1}الذكاء المؤسسي
+Dialogue: 1,0:00:02.00,0:00:57.00,WatermarkEN,,0,0,0,,{\c&H30E2E2E2&\b1}Institutional Intelligence
+Dialogue: 0,0:00:02.00,0:00:09.50,Bilingual,,0,0,0,,{\c&H00D4FF&}أين كان النظامُ حين أفلست الشركة؟ ملفُ إكسلٍ معزول، لا يراهُ أحد!\N{\c&HFFFFFF&}Where was the system when it collapsed? An isolated Excel sheet seen by none!
+Dialogue: 0,0:00:09.80,0:00:17.50,Bilingual,,0,0,0,,{\c&H00D4FF&}أبحاثُ ماكنزي: 98% من المشاريعِ الكبرى تواجهُ عجزاً وتأخيراً كارثياً!\N{\c&HFFFFFF&}McKinsey: 98% of megaprojects face cost overruns and severe delays!
+Dialogue: 0,0:00:17.80,0:00:25.00,Bilingual,,0,0,0,,{\c&H00D4FF&}في عالمِ إتقان، نربطُ جدولَ الكمياتِ بمراكزِ التكلفةِ في ERPNext!\N{\c&HFFFFFF&}In ITQAN, we bind the contract BOQ to cost centers in ERPNext!
+Dialogue: 0,0:00:25.30,0:00:32.50,Bilingual,,0,0,0,,{\c&H00D4FF&}وعندما حاولَ المهندسُ رفعَ مستخلصٍ يتجاوزُ السقفَ بمترٍ واحدٍ فقط...\N{\c&HFFFFFF&}When site staff tried to claim just 1 cubic meter above budget...
+Dialogue: 0,0:00:32.80,0:00:40.20,Bilingual,,0,0,0,,{\c&H00D4FF&}...تدخّلَ النظام: "تجاوزٌ غيرُ قانوني! لا صرفَ دونَ أمرِ تغييرٍ معتمد!"\N{\c&HFFFFFF&}...the system intervened: "Unauthorized Overrun! Blocked without Change Order!"
+Dialogue: 0,0:00:40.50,0:00:46.80,Bilingual,,0,0,0,,{\c&H00D4FF&}هذا السطرُ البرمجيُّ أنقذَ 12 مليونَ دولار وحمى مئاتِ الوظائف!\N{\c&HFFFFFF&}This simple line of code saved $12,000,000 and protected jobs!
+Dialogue: 0,0:00:47.00,0:00:52.50,Bilingual,,0,0,0,,{\c&H00D4FF&}شاهد الشرحَ العمليَّ كاملاً على قناة: إتقان — الذكاء المؤسسي!\N{\c&HFFFFFF&}Watch full breakdown on: ITQAN — Institutional Intelligence!
+Dialogue: 0,0:00:52.80,0:00:56.80,Bilingual,,0,0,0,,{\c&H00D4FF&}ورابطُ الحلقةِ كاملةً في أولِ تعليق!\N{\c&HFFFFFF&}Full Episode link is in the first comment!
