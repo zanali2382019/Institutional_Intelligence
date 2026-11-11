@@ -125,11 +125,12 @@ def merge_longform_episode01():
     temp_dir.mkdir(parents=True, exist_ok=True)
 
     try:
-        # Generate concat list
+        # Generate concat list with relative names (FFmpeg concat resolves relative to concat_list.txt location)
         list_lines = []
         for i, s in enumerate(shots, 1):
             dest_name = f"shot_{i:02d}.mp4"
-            shutil.copy2(str(s), str(temp_dir / dest_name))
+            dest_path = temp_dir / dest_name
+            shutil.copy2(str(s), str(dest_path))
             list_lines.append(f"file '{dest_name}'")
 
         concat_list_file = temp_dir / "concat_list.txt"
@@ -146,8 +147,8 @@ def merge_longform_episode01():
 
         cmd = [
             ffmpeg_exe, "-y",
-            "-f", "concat", "-safe", "0", "-i", str(concat_list_file),
-            "-i", str(temp_audio),
+            "-f", "concat", "-safe", "0", "-i", str(concat_list_file.as_posix()),
+            "-i", str(temp_audio.as_posix()),
             "-filter_complex",
             # Scale & pad to 1080p 16:9 without distortion
             "[0:v]scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,format=yuv420p[v]",
@@ -157,13 +158,14 @@ def merge_longform_episode01():
             "-preset", "slow",
             "-crf", "18",
             "-c:a", "aac",
+            "-strict", "-2",
             "-b:a", "320k",
             "-shortest",
             "-movflags", "+faststart",
-            str(temp_output)
+            str(temp_output.as_posix())
         ]
 
-        result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        result = subprocess.run(cmd, cwd=str(temp_dir), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         if result.returncode != 0:
             print("\n[!] FFmpeg Concat Error:")
             print(result.stderr.decode("utf-8", errors="replace")[-1500:])
