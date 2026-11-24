@@ -1,0 +1,5 @@
+file 'v3_p1a_raw.wav'
+file 'v3_p1b_raw.wav'
+file 'v2_p2_raw.wav'
+file 'v2_p3_raw.wav'
+file 'v2_p4_raw.wav'

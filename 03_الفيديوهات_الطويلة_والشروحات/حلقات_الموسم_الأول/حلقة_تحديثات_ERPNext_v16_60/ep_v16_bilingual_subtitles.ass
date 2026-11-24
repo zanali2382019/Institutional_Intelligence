@@ -1,0 +1,42 @@
+[Script Info]
+Title: ITQAN ERPNext v16.60 Bilingual Master Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Bilingual,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.2,1.2,2,25,25,30,1
+Style: WatermarkAR,Arial,21,&H35FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,9,35,35,25,1
+Style: WatermarkEN,Arial,18,&H35FFFFFF,&H000000FF,&H00000000,&H70000000,-1,0,0,0,100,100,0,0,1,1.5,1,7,35,35,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:03:14.04,WatermarkAR,,0,0,0,,{\c&H30E2E2E2&\b1}الذكاء المؤسسي
+Dialogue: 1,0:00:00.00,0:03:14.04,WatermarkEN,,0,0,0,,{\c&H30E2E2E2&\b1}Institutional Intelligence
+Dialogue: 0,0:00:00.00,0:00:10.40,Bilingual,,0,0,0,,{\c&H00D4FF&}في عالمِ الأعمالِ الحديث، لم تعدِ المعركةُ تدورُ حولَ مَن يمتلكُ نظامَ ERP تقليدي... بل مَن يمتلكُ نظاماً يفكرُ ويتنبأُ قبلَ الجميع!\N{\c&HFFFFFF&}In modern business, the race isn't who owns an ERP... but who commands a system that predicts!
+Dialogue: 0,0:00:10.40,0:00:18.50,Bilingual,,0,0,0,,{\c&H00D4FF&}أطلقتْ مجتمعاتُ فرابي، و ERP نكست، تحديثَها الأضخمَ لهذا العام: الإصدارَ السادسَ عشر، النسخةَ ستين.\N{\c&HFFFFFF&}Frappe & ERPNext communities have unveiled their biggest update of the year: Version v16.60.
+Dialogue: 0,0:00:18.50,0:00:25.50,Bilingual,,0,0,0,,{\c&H00D4FF&}تحديثٌ لا يكتفي بإصلاحِ الأخطاء، بل يعيدُ كتابةَ قواعدِ إدارةِ المؤسساتِ إلى الأبد.\N{\c&HFFFFFF&}An update that doesn't just patch bugs—it rewrites enterprise management rules forever!
+Dialogue: 0,0:00:25.50,0:00:33.11,Bilingual,,0,0,0,,{\c&H00D4FF&}أهلاً بكم في قناةِ إتقان — الذكاءُ المؤسسي. رحلتُكم نحو إدارةِ الأعمالِ الذكيةِ والتحولِ الرقمي.\N{\c&HFFFFFF&}Welcome to ITQAN — Institutional Intelligence. Your journey to smart business & digital transformation.
+Dialogue: 0,0:00:33.11,0:00:38.20,Bilingual,,0,0,0,,{\c&H00D4FF&}أولاً: ثورةُ الذكاء الاصطناعي المؤسسي — فرابي قوقل فلوا.\N{\c&HFFFFFF&}First: The Enterprise AI Revolution — Frappe Flow.
+Dialogue: 0,0:00:38.20,0:00:43.00,Bilingual,,0,0,0,,{\c&H00D4FF&}لأولِ مرة، يُدمجُ الذكاءُ الاصطناعيُّ مباشرةً في صلبِ شاشاتِ النظام.\N{\c&HFFFFFF&}For the first time, AI is natively embedded directly inside your core Desk screens.
+Dialogue: 0,0:00:43.00,0:00:51.00,Bilingual,,0,0,0,,{\c&H00D4FF&}تخيّلْ أن تسألَ نظامَك: "ما هي المشاريعُ المعرضةُ لخطرِ العجزِ المالي الشهرَ القادم؟"، فيحللَ ملايينَ القيودِ ويجيبَك فوراً!\N{\c&HFFFFFF&}Ask your system: "Which projects risk cash deficits next month?", and get instant predictive answers!
+Dialogue: 0,0:00:51.00,0:01:05.47,Bilingual,,0,0,0,,{\c&H00D4FF&}والأهم؟ حوكمةُ الأمانِ الصارمة؛ فالذكاءُ الاصطناعيُّ هنا محكومٌ بمصفوفةِ الصلاحيات، ولا يستطيعُ أيُّ مستخدمٍ استخراجَ بياناتٍ تتجاوزُ حدودَ وظيفتِه المعتمدة.\N{\c&HFFFFFF&}Crucially, strict Role-Based Security: the AI strictly respects permissions and never leaks unauthorized data.
+Dialogue: 0,0:01:05.47,0:01:09.50,Bilingual,,0,0,0,,{\c&H00D4FF&}ثانياً: دمجُ فرابي استديوا داخلَ نواةِ النظام.\N{\c&HFFFFFF&}Second: Frappe Studio merged directly into the core Framework.
+Dialogue: 0,0:01:09.50,0:01:12.60,Bilingual,,0,0,0,,{\c&H00D4FF&}انتهى عصرُ انتظارِ المبرمجينَ لأسابيع!\N{\c&HFFFFFF&}The era of waiting weeks for software developers is over!
+Dialogue: 0,0:01:12.60,0:01:26.50,Bilingual,,0,0,0,,{\c&H00D4FF&}الآن يستطيعُ مديرو العملياتِ وروادُ الأعمالِ تصميمَ وبناءَ شاشاتٍ وتطبيقاتٍ مؤسسيةٍ كاملةٍ بالسحبِ والإفلات، وبمساعدةِ وكلاءِ الذكاء الاصطناعي، ودونَ كتابةِ سطرِ كودٍ واحد.\N{\c&HFFFFFF&}Now design and deploy bespoke custom apps visually with AI agents and zero code.
+Dialogue: 0,0:01:26.50,0:01:34.00,Bilingual,,0,0,0,,{\c&H00D4FF&}ثالثاً: لوحاتُ التحكمِ المدعومةِ بمنظومةِ إنسايتس الذكية.. وداعاً للرسومِ البيانيةِ الصامتة!\N{\c&HFFFFFF&}Third: Native Insights-powered Dashboards.. say goodbye to static, silent charts!
+Dialogue: 0,0:01:34.00,0:01:49.39,Bilingual,,0,0,0,,{\c&H00D4FF&}شاشاتُ العملِ أصبحت تتضمنُ خرائطَ حرارية، ومؤشراتٍ متعددةَ الأبعاد، وتصفيةً ماليةً موحدةً للشركاتِ القابضة، مع إمكانيةِ النقرِ المباشرِ على أيِّ رقمٍ للغوصِ في المستندِ والسطرِ المحاسبيِّ الأصلي.\N{\c&HFFFFFF&}Heatmaps, multi-axis metrics, multi-company filters, and instant drill-down to original ledger lines.
+Dialogue: 0,0:01:49.39,0:01:54.80,Bilingual,,0,0,0,,{\c&H00D4FF&}رابعاً: إعادةُ هندسةِ موديولِ المشاريعِ والمقاولات.\N{\c&HFFFFFF&}Fourth: Complete architectural revamp of the Projects & Contracting module.
+Dialogue: 0,0:01:54.80,0:02:11.00,Bilingual,,0,0,0,,{\c&H00D4FF&}شاشةُ قيادةٍ تنفيذيةٍ موحدة، تجمعُ بينَ تقدمِ التنفيذ، والمهامِّ المتأخرة، والأخطر: مقارنةَ التكلفةِ الفعليةِ اللحظيةِ بالإيراداتِ المعتمدة، لترى النزيفَ الماليَّ لحظةَ حدوثِه وتوقفَه فوراً.\N{\c&HFFFFFF&}One cockpit tracking progress, blocked tasks, and real-time Cost vs. Billing to halt profit leakage.
+Dialogue: 0,0:02:11.00,0:02:17.00,Bilingual,,0,0,0,,{\c&H00D4FF&}خامساً: أتمتةُ الوثائق — ارفعْ أولاً، ودعِ النظامَ يملأُ الفاتورة!\N{\c&HFFFFFF&}Fifth: Intelligent Document AI — Upload first, and let the system fill the invoice!
+Dialogue: 0,0:02:17.00,0:02:30.59,Bilingual,,0,0,0,,{\c&H00D4FF&}بمجردِ إفلاتِ ملفِ الـ بي دي إف أو الفاتورةِ الممسوحةِ ضوئياً، يقرأُ النظامُ البنودَ والأسعارَ ذاتياً، ويعرضُها في نافذةٍ جانبيةٍ للمراجعةِ والاعتمادِ في ثوانٍ معدودة.\N{\c&HFFFFFF&}Drop a PDF or scanned bill: the system auto-extracts line items and amounts for side-by-side approval.
+Dialogue: 0,0:02:30.59,0:02:35.70,Bilingual,,0,0,0,,{\c&H00D4FF&}سادساً: حوكمةُ الشيكاتِ وإدارةُ التدفقاتِ النقديةِ الحية.\N{\c&HFFFFFF&}Sixth: Dedicated Cheque Management and live Cash Flow governance.
+Dialogue: 0,0:02:35.70,0:02:45.50,Bilingual,,0,0,0,,{\c&H00D4FF&}موديولٌ متكاملٌ لإدارةِ دورةِ حياةِ الشيكات، مع كشفِ اليوميةِ الفوري، وتتبعِ السيولةِ التراكمي، لمنعِ أيِّ مفاجآتٍ بنكية.\N{\c&HFFFFFF&}Complete lifecycle tracking for cheques, Day Book reports, and running cash balance controls.
+Dialogue: 0,0:02:45.50,0:02:54.00,Bilingual,,0,0,0,,{\c&H00D4FF&}هذا التحديثُ ليس مجردَ ترقيةٍ برمجية... بل هو إعلانٌ صريحٌ لنهايةِ عصرِ البرمجياتِ الاحتكاريةِ الباهظة.\N{\c&HFFFFFF&}This release isn't just an upgrade... it marks the end of exorbitant proprietary software monopolies.
+Dialogue: 0,0:02:54.00,0:03:00.80,Bilingual,,0,0,0,,{\c&H00D4FF&}في إتقان، نساعدُكم على هندسةِ وتطبيقِ هذا النظامِ بأعلى معاييرِ الحوكمةِ والأمان.\N{\c&HFFFFFF&}At ITQAN, we architect and deploy this modern ecosystem with premier enterprise governance.
+Dialogue: 0,0:03:00.80,0:03:08.40,Bilingual,,0,0,0,,{\c&H00D4FF&}تواصلوا معنا عبرَ الواتسابِ في أولِ تعليق، واحجزوا جلستَكم الاستشاريةَ لنقلِ مؤسستِكم إلى المستقبل!\N{\c&HFFFFFF&}Contact our advisory team via WhatsApp in the pinned comment to elevate your enterprise today!
+Dialogue: 0,0:03:08.40,0:03:14.04,Bilingual,,0,0,0,,{\c&H00D4FF&}اشتركوا في قناةِ إتقان — الذكاءُ المؤسسي، واحموا شركاتِكم بذكاءٍ لا يُقهر!\N{\c&HFFFFFF&}Subscribe to ITQAN — Institutional Intelligence, and empower your business with unyielding intelligence!

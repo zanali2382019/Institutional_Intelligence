@@ -1,0 +1,4 @@
+file 'part1_raw.wav'
+file 'part2a_raw.wav'
+file 'part2b_1_raw.wav'
+file 'part2b_2_raw.wav'

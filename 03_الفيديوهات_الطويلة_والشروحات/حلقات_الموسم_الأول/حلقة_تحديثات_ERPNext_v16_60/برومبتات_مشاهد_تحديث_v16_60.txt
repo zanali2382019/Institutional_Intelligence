@@ -1,0 +1,159 @@
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║               برومبتات Google Flow لتوليد مشاهد حلقة تحديث ERPNext v16.60 — إتقان                    ║
+║                   GOOGLE FLOW CONTINUOUS 10-SECOND SHOT MASTER PROMPT SUITE                          ║
+║            EPISODE: THE ERPNEXT v16.60 REVOLUTION & THE NEXT-GEN ENTERPRISE INTELLIGENCE             ║
+║                  تحديث ERPNext v16.60: عندما يتحول نظامك إلى ذكاء اصطناعي مؤسسي خارق                 ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+📌 الدستور الفني لـ Google Flow (Veo):
+- النسبة: Horizontal 16:9 (عريض 4K/8K للوثائقيات واليوتيوب)
+- مدة كل لقطة: 10 ثوانٍ متصلة بالضبط (Continuous 10s Sequence)
+- مسار الصوت المتطابق معه: voiceover_v16_master.mp3
+- الألوان والهوية: أزرق كحلي عميق (Navy Blue #0A1628)، ذهبي (#FFD700)، ولمسات سيان ونيون تكنولوجية تعكس الحوكمة والذكاء الاصطناعي.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 01 (00:00 - 00:10) | المشهد 01: المعركة الرقمية الجديدة
+ [النص الصوتي المسموع]: "في عالمِ الأعمالِ الحديث، لم تعدِ المعركةُ تدورُ حولَ مَن يمتلكُ نظامَ إدارةِ موارد... بل مَن يمتلكُ نظاماً يفكرُ ويتنبأُ قبلَ الجميع!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Photorealistic cinematic 8K, horizontal 16:9 aspect ratio. Sweeping dramatic crane shot descending over a futuristic glass skyscraper corporate boardroom at twilight. Massive ultra-wide curved holographic displays illuminate the room in deep navy blue and gold analytical graphs. Executives and engineers in sharp suits collaborate around an interactive digital conference table glowing with real-time enterprise logistics data and predictive nodes. Moody atmospheric lighting, anamorphic cinema lens, shallow depth of field, 24fps documentary prestige grading.
+
+[NEGATIVE PROMPT]
+cartoon, low resolution, blurry, casual clothes, chaotic lighting, grainy.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 02 (00:10 - 00:20) | المشهد 02: إطلاق تحديث v16.60
+ [النص الصوتي المسموع]: "أطلقتْ مجتمعاتُ فريبه وإي آر بي نكست تحديثَها الأضخمَ لهذا العام: الإصدارَ السادسَ عشر، النسخةَ ستين. تحديثٌ لا يكتفي بإصلاحِ الأخطاء، بل يعيدُ كتابةَ قواعدِ إدارةِ المؤسساتِ إلى الأبد..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+[CONTINUITY INSTRUCTION: Continue from the technological atmosphere of Shot 01].
+Dynamic macro push-in camera move focusing on a high-end designer monitor running the official modern Desk interface of ERPNext. In the center, a luminous holographic version badge "v16.60" animates with subtle blue and gold lens flares, expanding into multifaceted module icons (Projects, AI Flow, Insights, Studio). Elegant clean corporate office interior in the background with soft ambient dusk lighting, photorealistic 8K, 35mm lens, 24fps.
+
+[NEGATIVE PROMPT]
+cartoon, retro 90s computer, messy desktop, noisy textures, oversaturated neon.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 03 (00:20 - 00:30) | المشهد 03: هوية إتقان — الذكاء المؤسسي
+ [النص الصوتي المسموع]: "أهلاً بكم في قناةِ إتقان — الذكاءُ المؤسسي. رحلتُكم نحو إدارةِ الأعمالِ الذكيةِ والتحولِ الرقمي..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Epic corporate brand identity reveal. The signature ITQAN geometric 3D shield emblem, crafted from polished dark metallic steel and radiant cyan circuit traces with a bold upward golden growth arrow, forms seamlessly in dark volumetric space. Beams of soft volumetric light illuminate floating digital financial tokens and governance nodes orbiting the emblem. Ultra-premium broadcast aesthetic, photorealistic 8K, smooth cinematic camera orbit, 24fps.
+
+[NEGATIVE PROMPT]
+cheap 3D, neon rainbow, low poly, jittery motion, amateur animation.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 04 (00:30 - 00:40) | المشهد 04: ثورة الذكاء الاصطناعي — Frappe Flow
+ [النص الصوتي المسموع]: "أولاً: ثورةُ الذكاء الاصطناعي المؤسسي — فريبه فلو. لأولِ مرة، يُدمجُ الذكاءُ الاصطناعيُّ مباشرةً في صلبِ شاشاتِ النظام..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Cinematic medium close-up of an enterprise CFO interacting with the Desk interface. Inside the ERPNext sidebar, the new "Frappe Flow" AI assistant panel activates with an elegant flowing cyan waveform. The user types an Arabic/English operational query, and the system instantly analyzes live database records, generating predictive cost curves and risk alerts right alongside the active transaction screen. High-end modern corporate setting, 8K photorealism, shallow depth of field.
+
+[NEGATIVE PROMPT]
+cartoon chat bubble, robot cartoon mascot, blurry text, oversaturated green.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 05 (00:40 - 00:50) | المشهد 05: حوكمة الصلاحيات الصارمة في الـ AI
+ [النص الصوتي المسموع]: "تخيّلْ أن تسألَ نظامَك: 'ما هي المشاريعُ المعرضةُ لخطرِ العجزِ المالي الشهرَ القادم؟'، فيحللَ ملايينَ القيودِ ويجيبَك فوراً! والأهم؟ حوكمةُ الأمانِ الصارمة..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+High-tech visual representation of Role-Based AI Governance. A multi-layered holographic organizational chart rotates slowly. As the AI Agent processes enterprise data, sharp cryptographic digital lock shields illuminate across confidential executive salary tiers, demonstrating that unauthorized roles are strictly blocked from sensitive queries. Warm amber security highlights contrasting against deep corporate navy blue, 8K resolution, 24fps.
+
+[NEGATIVE PROMPT]
+hacker skull, horror movie tropes, cartoon, low resolution, messy graphics.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 06 (00:50 - 01:00) | المشهد 06: استوديو فريبه — بناء الأنظمة دون كود
+ [النص الصوتي المسموع]: "ثانياً: دمجُ 'استوديو فريبه' داخلَ نواةِ النظام. انتهى عصرُ انتظارِ المبرمجينَ لأسابيع! الآن يستطيعُ مديرو العملياتِ وروادُ الأعمالِ تصميمَ وبناءَ شاشاتٍ وتطبيقاتٍ مؤسسيةٍ كاملةٍ بالسحبِ والإفلات..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Over-the-shoulder tracking shot of an operations director using the newly integrated "Frappe Studio" visual builder on a dual 4K monitor setup. With smooth mouse clicks and drag-and-drop actions, functional UI components, custom DocType cards, and automated approval workflows assemble seamlessly in real time without writing any backend code. Sunlight pours through contemporary loft office windows, photorealistic 8K, 35mm lens.
+
+[NEGATIVE PROMPT]
+cluttered cables, chaotic screens, cartoon UI, blurry hands, amateur video.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 07 (01:00 - 01:10) | المشهد 07: لوحات التحكم الذكية المدعومة بـ Insights
+ [النص الصوتي المسموع]: "ثالثاً: لوحاتُ التحكمِ المدعومةِ بمنظومةِ إنسايتس الذكية. وداعاً للرسومِ البيانيةِ الصامتة! شاشاتُ العملِ أصبحت تتضمنُ خرائطَ حرارية، ومؤشراتٍ متعددةَ الأبعاد..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Ultra-wide cinematic dolly shot showcasing an executive command center video wall powered by native Frappe Insights. The screen displays multi-axis revenue trends, geographic heatmaps of distribution branches, and color-coded operational efficiency matrices. A financial controller points at a bar chart metric, clicking to drill down instantaneously into the underlying General Ledger ledger entries. Crisp corporate prestige, photorealistic 8K, 24fps.
+
+[NEGATIVE PROMPT]
+static boring PowerPoint, cartoon, dark gloomy lighting, low quality.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 08 (01:10 - 01:20) | المشهد 08: إعادة هندسة موديول المشاريع والمقاولات
+ [النص الصوتي المسموع]: "رابعاً: إعادةُ هندسةِ موديولِ المشاريعِ والمقاولات. شاشةُ قيادةٍ تنفيذيةٍ موحدة، تجمعُ بينَ تقدمِ التنفيذ، والمهامِّ المتأخرة، والأخطر: مقارنةَ التكلفةِ الفعليةِ اللحظيةِ بالإيراداتِ المعتمدة..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Split-screen visual harmony: Left side shows an active high-rise construction site where engineers in hard hats review project milestones on a ruggedized tablet. Right side shows the revamped ERPNext Projects Overview dashboard on screen, perfectly aligning Task Gantt charts, overdue alerts, and real-time Cost-to-Billing variance bars. Seamless corporate color grading in navy blue and safety gold, 8K photorealism.
+
+[NEGATIVE PROMPT]
+cartoon, dirty screen, distorted construction machinery, blurry typography.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 09 (01:20 - 01:30) | المشهد 09: أتمتة الوثائق — ارفع أولاً ودع النظام يملأ
+ [النص الصوتي المسموع]: "خامساً: أتمتةُ الوثائق — ارفعْ أولاً، ودعِ النظامَ يملأُ الفاتورة! بمجردِ إفلاتِ ملفِ الـ بي دي إف أو الفاتورةِ الممسوحةِ ضوئياً، يقرأُ النظامُ البنودَ والأسعارَ ذاتياً..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Close-up cinematic macro shot of an accountant dragging a scanned supplier PDF invoice onto the ERPNext Desk. Instantly, an intelligent split-screen view animates: the PDF document sits on the left pane with optical character highlights tracing line items and tax amounts, while on the right pane, the official Purchase Invoice form fills automatically in real time with zero manual typing errors. Clean, high-tech financial automation, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+slow clunky interface, error popup, cartoon, unreadable mess.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 10 (01:30 - 01:40) | المشهد 10: حوكمة الشيكات والسيولة التراكمية
+ [النص الصوتي المسموع]: "سادساً: حوكمةُ الشيكاتِ وإدارةُ التدفقاتِ النقديةِ الحية. موديولٌ متكاملٌ لإدارةِ دورةِ حياةِ الشيكات، مع كشفِ اليوميةِ الفوري، وتتبعِ السيولةِ التراكمي، لمنعِ أيِّ مفاجآتٍ بنكية..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Cinematic slow-motion shot of a luxury corporate finance desk. A treasurer stamps an official business cheque beside a high-security banking ledger. On the background monitor, the new ERPNext Cheque Management dashboard tracks check clearance cycles, bank reconciliations, and a rolling accumulated Cash Flow forecast graph glowing in secure green and gold metrics. Moody cinematic executive lighting, 8K resolution, 50mm lens.
+
+[NEGATIVE PROMPT]
+bounced check red error, messy desk, cartoon, cheap lighting.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 11 (01:40 - 01:50) | المشهد 11: نهاية عصر الاحتكار والتحول للحرية
+ [النص الصوتي المسموع]: "هذا التحديثُ ليس مجردَ ترقيةٍ برمجية... بل هو إعلانٌ صريحٌ لنهايةِ عصرِ البرمجياتِ الاحتكاريةِ الباهظة. في إتقان، نساعدُكم على هندسةِ وتطبيقِ هذا النظامِ بأعلى معاييرِ الحوكمةِ والأمان..."
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Inspiring symbolic transformation shot. A massive wall of monolithic, rigid corporate proprietary servers dissolves into glowing dynamic open-source digital networks connecting enterprise offices, logistics hubs, and modern factories across a sunlit global skyline. A visionary corporate CEO stands overlooking the future-ready enterprise ecosystem with total confidence. Epic cinematic lighting, gold and cyan volumetric lens flares, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+broken computers, fire, explosion, cartoon, dark apocalyptic scene.
+
+
+══════════════════════════════════════════════════════════════════════════════════════
+ 🎬 SHOT 12 (01:50 - 02:05) | المشهد 12: دعوة التحول المؤسسي والاشتراك
+ [النص الصوتي المسموع]: "تواصلوا معنا عبرَ الواتسابِ في أولِ تعليق، واحجزوا جلستَكم الاستشاريةَ لنقلِ مؤسستِكم إلى المستقبل! اشتركوا في قناةِ إتقان — الذكاءُ المؤسسي، واحموا شركاتِكم بذكاءٍ لا يُقهر!"
+══════════════════════════════════════════════════════════════════════════════════════
+
+[GOOGLE FLOW PROMPT — COPY & PASTE]
+Triumphant cinematic closing shot. A panoramic drone ascent above a state-of-the-art corporate financial district at sunrise, with golden morning sunbeams reflecting off modern glass facades and busy bullet trains moving smoothly below. In the center foreground, an elegant and refined graphic layout displays the official ITQAN logo, accompanied by prestigious typography: 'ITQAN — Institutional Intelligence | Your Partner in ERPNext & AI Governance'. Ultra-luxury finish, 8K, 24fps.
+
+[NEGATIVE PROMPT]
+dull colors, stormy clouds, broken buildings, amateur text, cartoon.
+
